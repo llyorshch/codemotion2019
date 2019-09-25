@@ -100,3 +100,75 @@ Notes about the conference. Just the highlights. Zero fat.
     - [KubeFwd](https://kubefwd.com/)
 
 ## September 25 - Wednesday
+
+### Taking Back “Software Engineering” by Dave Farley
+
+- "UML is only a tool. It's not engineering"
+- Solid disciplines are made with solid principles
+- SCRUM is project management stuff. It's not SE. There is no word about coding in the SCRUM spec.
+- Craftsmanship
+  - Production is not a problem (we simply copy bytes to deliver a product). The problem is design.
+- Software industry
+  - Craft <-- We are here
+  - Mass production <-- WRONG
+  - Lean production techniques <-- We WANT to be here (but we are not here yet)
+- We are always building the fist bridge, the first rocket, etc.
+- The scale of what we build varies a lot (hut vs. skyscraper)
+- Dave's definition of engineering
+  - **Engineering** is the application of an empirical, scientific approach to finding efficient solutions to practical problems.
+- Fundamentals of the engineering approach:
+  - Iterative
+  - Employs feedback
+  - Incremental
+  - Experimental
+  - Empirical
+- Iterative vs. Incremental  
+![Iterative vs. Incremental](images/incrementalVsIterative.png)
+- The most expensive user story: "As the President of the U.S.A. I want to send a man to the moon before the end of this decade". JFK 1961.
+- If you have a BIG challenge, you have to be experimental. Waterfall was not an option to send a man to the moon.
+- The first engineer. 🙇🏻‍  
+![Margaret Hamilton](images/margaret_hamilton.jpg)
+- Experimentation and learning: The Ranger Programme (to "hit" the moon)  
+![The Ranger Programme](images/Dave_Farley_Being_Experimental.jpg)
+- Just guessing is not good enough. You have to measure it!
+- Be empirical
+- Continuous delivery as an engineering principle
+- Don't be _like_ engineers. **Be** engineers.
+
+### Building Reactive Pipelines: How to go from scalable apps to (ridiculously) scalable systems - Mark Heckler
+
+- Definition of reactive programming  
+![Definition of reactive programming](images/MarkHeckler_Reactive_programming_definition.jpg)
+- [Spring Cloud Stream](https://spring.io/projects/spring-cloud-stream)
+- Connecting two processors with configuration 😮
+![Connecting two processors with configuration](images/MarkHeckler_connecting_Processors.jpg)
+- Resources  
+![Resources](images/MarkHeckler_Resources.jpg)
+  
+### Midiendo la calidad de código en WTF/min (con ejemplos de código real que... - David Gómez
+
+- Funny talk about crappy code. 😂
+- Highly inspired by Clean Code by Uncle Bob
+
+### ¡GraalVM y Micronaut: compañeros perfectos! - Iván López (el humilde)
+
+- Micronaut was designed to take advantage of AOT instead of reflection and other non-friendly GraalVM techniques.
+
+### Operational Serverless - Vicenç García Altés
+
+![Trap](images/trap.gif)
+
+### React hooks, bye bye to classes - ~~Victor Ibáñez Aparicio~~ Carlos P. Jimeno
+
+- Super cool talk to get to know React Hooks in 40 min. 👏🏻
+- [Slides](https://slides.com/carlosperezjimeno/reacthooks#/)
+
+## Wrap-up
+
+- Unbalanced talks. Some of them very good with international speakers, some very poor. Luckily, the poor ones were the few.
+- Overall, a very well organized conference. Watching the conferences in a cinema was great.
+- Most popular technologies:
+  - K8s
+  - Serverless
+  - ML
+
