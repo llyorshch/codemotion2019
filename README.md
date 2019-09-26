@@ -168,7 +168,8 @@ Notes about the conference. Just the highlights. Zero fat.
 - Unbalanced talks. Some of them very good with international speakers, some very poor. Luckily, the poor ones were the few.
 - Overall, a very well organized conference. Watching the conferences in a cinema was great.
 - Most popular technologies:
-  - K8s
+  - K8
   - Serverless
+  - Reactive programming
   - ML
 
