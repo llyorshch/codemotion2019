@@ -57,3 +57,37 @@ Jorge’s notes
 - App front con Express y bbdd MongoDB
 - https://www.youtube.com/watch?v=4irv0ZswJu4&feature=youtu.be
 
+## September 25 - Wednesday
+
+### Are Web Components the Betamax of Web Development? - Horacio Gonzalez (OVH) @LostInBrittany
+
+- Betamax history
+- Comparison between Vue, Angular and Vue
+- Ionic 4 / Stencil or Polymer as a solution nowadays
+- Webcomponent are based in the low level html standard
+- https://www.youtube.com/watch?v=mz1yL4HJhAA
+
+### Visualización de Datos Interactiva en aplicaciones con Vue.js y React - Javier Abadía (StyleSage) @javierabadia
+
+- Gráficas solo con D3, solo con Vue o solo con React.  Posibilidad de combinarlos 
+- Para animar sólo con Vue o React, se necesitan librerías externas
+- Eventos: hover
+- Cosas a tener en cuenta en gráficas responsive
+
+### Web Scrapping como nunca te lo contaron. Atajos y técnicas de Evasión de contramedidas - Jorge Barrachina (ESRI) @NTKOG
+
+- Notas legales de introducción a qué se puede scrapear
+- Bots
+- Parallel & Puppeteer como herramientas principales para scrapear
+- Otra charla demasiado teórica y moral
+
+### Afrontando el mal software - César Alberca (Autentia) @cesalberca
+
+- Principios SOLID
+- Patrones de diseño: comando, decoradores, cadena de responsabilidad
+- Charla muy para juniors
+
+### React hooks, bye bye to classes - Carlos P. Jimeno (influencity) 
+
+- Slides: https://slides.com/carlosperezjimeno/reacthooks#/
+- ![Victor Ibáñez](../images/React_hooks_bye_bye_classes.jpg)
