@@ -8,7 +8,7 @@ Notes about the conference. Just the highlights. Zero fat.
 
 #### Asistentes
 
-  - Jorge Mora
+  - Jorge Mora  - **Quiero hablar de esta presentación**
   - ...
 
 #### Jorge's notes
