@@ -6,6 +6,13 @@ Notes about the conference. Just the highlights. Zero fat.
 
 ### Thinking like a Founder - Chad Arimura
 
+#### Asistentes
+
+  - Jorge Mora
+  - ...
+
+#### Jorge's notes
+
 - CEO's functions:
   - People
     - Choose wisely and empower your team
@@ -18,6 +25,13 @@ Notes about the conference. Just the highlights. Zero fat.
   - Shitty or incoherent culture brings a shitty incoherent company.
 
 ### Speeding up Innovation - Arun Gupta
+
+#### Asistentes
+
+  - Jorge Mora
+  - ...
+
+#### Jorge's notes
 
 - "You don't hire a VP of innovation."
 - "There is no economy of scale in software". In other words, 1000 crappy programmers don't make a good software project just because they are many whether or not they are very well organized.
