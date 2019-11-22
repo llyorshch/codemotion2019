@@ -43,6 +43,13 @@ Notes about the conference. Just the highlights. Zero fat.
 
 ### The Reactive Revolution - Josh Long
 
+#### Asistentes
+
+  - Jorge Mora
+  - ...
+
+#### Jorge's notes
+
 - [Talk source code](https://github.com/joshlong/reactive-revolution)
 - [Reactive Spring Book](http://www.reactivespring.io/)
 - [Reactive Streams spec](http://www.reactive-streams.org/)
@@ -54,6 +61,13 @@ Notes about the conference. Just the highlights. Zero fat.
 - Router function to declare endpoints
 
 ### The Future of Serverless Java - Chad Arimura
+
+#### Asistentes
+
+  - Jorge Mora
+  - ...
+
+#### Jorge's notes
 
 - 80% of the world is using Java
 - But Java is not popular in serverless environments
@@ -73,9 +87,23 @@ Notes about the conference. Just the highlights. Zero fat.
 
 ### Artificial Stupidity - Alex Fernández
 
+#### Asistentes
+
+  - Jorge Mora
+  - ...
+
+#### Jorge's notes
+
 - Just a funny talk about artificial intelligence
 
 ### One Click Development Environments - Pablo Chico de Guzman
+
+#### Asistentes
+
+  - Jorge Mora
+  - ...
+
+#### Jorge's notes
 
 - [Okteto](https://okteto.com/) - K8s for developers
 - People does not develop with docker or k8s. People uses native development and docker just for dependencies.
@@ -88,6 +116,13 @@ Notes about the conference. Just the highlights. Zero fat.
 
 ### Descubriendo Quarkus, java sub-atómico en acción - Katia Aresti y Aurea Amunozhe
 
+#### Asistentes
+
+  - Jorge Mora
+  - ...
+
+#### Jorge's notes
+
 - [Quarkus](https://quarkus.io/) is a new thing. Not yet ready for production.
 - microservices and serverless environment for Java EE people
 - Includes hot reloading!
@@ -99,11 +134,25 @@ Notes about the conference. Just the highlights. Zero fat.
 
 ### El futuro era esto: Reconocimiento facial sobre video en tiempo real sin servidores - Javier Ramirez
 
+#### Asistentes
+
+  - Jorge Mora
+  - ...
+
+#### Jorge's notes
+
 - [Amazon Rekognition](https://aws.amazon.com/es/rekognition/)
 - [Amazon Kinesis Video Stream](https://aws.amazon.com/es/kinesis/video-streams/)
 - Don't be evil using this technology
 
 ### Dev Tools para Kubernetes - Pablo Chico de Guzman y Micael Gallego Carrillo
+
+#### Asistentes
+
+  - Jorge Mora
+  - ...
+
+#### Jorge's notes
 
 - Optimizations to enable developing in a K8s environment
   - [JIB](https://github.com/GoogleContainerTools/jib) to create optimized docker images for development
@@ -116,6 +165,13 @@ Notes about the conference. Just the highlights. Zero fat.
 ## September 25 - Wednesday
 
 ### Taking Back “Software Engineering” by Dave Farley
+
+#### Asistentes
+
+  - Jorge Mora
+  - ...
+
+#### Jorge's notes
 
 - "UML is only a tool. It's not engineering"
 - Solid disciplines are made with solid principles
@@ -149,7 +205,14 @@ Notes about the conference. Just the highlights. Zero fat.
 - Continuous delivery as an engineering principle
 - Don't be _like_ engineers. **Be** engineers.
 
-### Building Reactive Pipelines: How to go from scalable apps to (ridiculously) scalable systems - Mark Heckler
+### Building Reactive Pipelines: How to go from scalable apps to (ridiculously) scalable systems - Mark Heckler
+
+#### Asistentes
+
+  - Jorge Mora
+  - ...
+
+#### Jorge's notes
 
 - Definition of reactive programming  
 ![Definition of reactive programming](images/MarkHeckler_Reactive_programming_definition.jpg)
@@ -161,23 +224,53 @@ Notes about the conference. Just the highlights. Zero fat.
   
 ### Midiendo la calidad de código en WTF/min (con ejemplos de código real que... - David Gómez
 
+#### Asistentes
+
+  - Jorge Mora
+  - ...
+
+#### Jorge's notes
+
 - Funny talk about crappy code. 😂
 - Highly inspired by Clean Code by Uncle Bob
 
 ### ¡GraalVM y Micronaut: compañeros perfectos! - Iván López (el humilde)
 
+#### Asistentes
+
+  - Jorge Mora
+  - ...
+
+#### Jorge's notes
+
 - Micronaut was designed to take advantage of AOT instead of reflection and other non-friendly GraalVM techniques.
 
 ### Operational Serverless - Vicenç García Altés
+
+#### Asistentes
+
+  - Jorge Mora
+  - ...
+
+#### Jorge's notes
 
 ![Trap](images/trap.gif)
 
 ### React hooks, bye bye to classes - ~~Victor Ibáñez Aparicio~~ Carlos P. Jimeno
 
+#### Asistentes
+
+  - Jorge Mora
+  - ...
+
+#### Jorge's notes
+
 - Super cool talk to get to know React Hooks in 40 min. 👏🏻
 - [Slides](https://slides.com/carlosperezjimeno/reacthooks#/)
 
 ## Wrap-up
+
+#### Jorge's notes
 
 - Unbalanced talks. Some of them very good with international speakers, some very poor. Luckily, the poor ones were the few.
 - Overall, a very well organized conference. Watching the conferences in a cinema was great.
