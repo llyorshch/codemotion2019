@@ -2,6 +2,14 @@
 
 Notes about the conference. Just the highlights. Zero fat.
 
+In this document you can find our notes. 
+
+In the file [PITCHME.md](PITCHME.md) you can find the [Marp](https://marp.app/#get-started) presentation. To preview the presentation you can execute the following command:
+
+```bash
+marp -p PITCHME.md -o dist/PITCHME.html
+```
+
 ## September 24 - Tuesday
 
 ### Thinking like a Founder - Chad Arimura
