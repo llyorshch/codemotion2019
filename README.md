@@ -2,7 +2,7 @@
 
 Notes about the conference. Just the highlights. Zero fat.
 
-In this document you can find our notes. 
+In this document you can find our notes.
 
 In the file [PITCHME.md](PITCHME.md) you can find the [Marp](https://marp.app/#get-started) presentation. To preview the presentation you can execute the following command:
 
@@ -16,8 +16,9 @@ marp -p PITCHME.md -o dist/PITCHME.html
 
 #### Asistentes
 
-  - Jorge Mora  - **Quiero hablar de esta presentación**
-  - ...
+- Jorge Mora - **Quiero hablar de esta presentación**
+- Victor Ibañez
+- ...
 
 #### Jorge's notes
 
@@ -36,8 +37,9 @@ marp -p PITCHME.md -o dist/PITCHME.html
 
 #### Asistentes
 
-  - Jorge Mora
-  - ...
+- Jorge Mora
+- Victor Ibañez
+- ...
 
 #### Jorge's notes
 
@@ -53,8 +55,9 @@ marp -p PITCHME.md -o dist/PITCHME.html
 
 #### Asistentes
 
-  - Jorge Mora
-  - ...
+- Jorge Mora
+- Victor Ibañez
+- ...
 
 #### Jorge's notes
 
@@ -72,8 +75,8 @@ marp -p PITCHME.md -o dist/PITCHME.html
 
 #### Asistentes
 
-  - Jorge Mora
-  - ...
+- Jorge Mora
+- ...
 
 #### Jorge's notes
 
@@ -97,19 +100,27 @@ marp -p PITCHME.md -o dist/PITCHME.html
 
 #### Asistentes
 
-  - Jorge Mora
-  - ...
+- Jorge Mora
+- ...
 
 #### Jorge's notes
 
 - Just a funny talk about artificial intelligence
 
+### Google Assistant's Smart Home API in practice
+
+#### Asistentes
+
+- Victor Ibañez
+- ...
+
 ### One Click Development Environments - Pablo Chico de Guzman
 
 #### Asistentes
 
-  - Jorge Mora
-  - ...
+- Jorge Mora
+- Victor Ibañez
+- ...
 
 #### Jorge's notes
 
@@ -126,8 +137,9 @@ marp -p PITCHME.md -o dist/PITCHME.html
 
 #### Asistentes
 
-  - Jorge Mora
-  - ...
+- Jorge Mora
+- Victor Ibañez **Quiero hablar de esta presentación**
+- ...
 
 #### Jorge's notes
 
@@ -144,8 +156,9 @@ marp -p PITCHME.md -o dist/PITCHME.html
 
 #### Asistentes
 
-  - Jorge Mora
-  - ...
+- Jorge Mora
+- Victor Ibañez **Quiero hablar de esta presentación**
+- ...
 
 #### Jorge's notes
 
@@ -157,8 +170,9 @@ marp -p PITCHME.md -o dist/PITCHME.html
 
 #### Asistentes
 
-  - Jorge Mora
-  - ...
+- Jorge Mora
+- Victor Ibañez
+- ...
 
 #### Jorge's notes
 
@@ -176,8 +190,9 @@ marp -p PITCHME.md -o dist/PITCHME.html
 
 #### Asistentes
 
-  - Jorge Mora
-  - ...
+- Jorge Mora
+- Victor Ibañez
+- ...
 
 #### Jorge's notes
 
@@ -201,13 +216,13 @@ marp -p PITCHME.md -o dist/PITCHME.html
   - Experimental
   - Empirical
 - Iterative vs. Incremental  
-![Iterative vs. Incremental](images/incrementalVsIterative.png)
+  ![Iterative vs. Incremental](images/incrementalVsIterative.png)
 - The most expensive user story: "As the President of the U.S.A. I want to send a man to the moon before the end of this decade". JFK 1961.
 - If you have a BIG challenge, you have to be experimental. Waterfall was not an option to send a man to the moon.
 - The first engineer. 🙇🏻‍  
-![Margaret Hamilton](images/margaret_hamilton.jpg)
+  ![Margaret Hamilton](images/margaret_hamilton.jpg)
 - Experimentation and learning: The Ranger Programme (to "hit" the moon)  
-![The Ranger Programme](images/Dave_Farley_Being_Experimental.jpg)
+  ![The Ranger Programme](images/Dave_Farley_Being_Experimental.jpg)
 - Just guessing is not good enough. You have to measure it!
 - Be empirical
 - Continuous delivery as an engineering principle
@@ -217,25 +232,26 @@ marp -p PITCHME.md -o dist/PITCHME.html
 
 #### Asistentes
 
-  - Jorge Mora
-  - ...
+- Jorge Mora
+- Victor Ibañez
+- ...
 
 #### Jorge's notes
 
 - Definition of reactive programming  
-![Definition of reactive programming](images/MarkHeckler_Reactive_programming_definition.jpg)
+  ![Definition of reactive programming](images/MarkHeckler_Reactive_programming_definition.jpg)
 - [Spring Cloud Stream](https://spring.io/projects/spring-cloud-stream)
 - Connecting two processors with configuration 😮
-![Connecting two processors with configuration](images/MarkHeckler_connecting_Processors.jpg)
+  ![Connecting two processors with configuration](images/MarkHeckler_connecting_Processors.jpg)
 - Resources  
-![Resources](images/MarkHeckler_Resources.jpg)
-  
+  ![Resources](images/MarkHeckler_Resources.jpg)
+
 ### Midiendo la calidad de código en WTF/min (con ejemplos de código real que... - David Gómez
 
 #### Asistentes
 
-  - Jorge Mora
-  - ...
+- Jorge Mora
+- ...
 
 #### Jorge's notes
 
@@ -246,8 +262,9 @@ marp -p PITCHME.md -o dist/PITCHME.html
 
 #### Asistentes
 
-  - Jorge Mora
-  - ...
+- Jorge Mora
+- Victor Ibañez **Quiero hablar de esta presentación**
+- ...
 
 #### Jorge's notes
 
@@ -257,8 +274,8 @@ marp -p PITCHME.md -o dist/PITCHME.html
 
 #### Asistentes
 
-  - Jorge Mora
-  - ...
+- Jorge Mora
+- ...
 
 #### Jorge's notes
 
@@ -268,13 +285,20 @@ marp -p PITCHME.md -o dist/PITCHME.html
 
 #### Asistentes
 
-  - Jorge Mora
-  - ...
+- Jorge Mora
+- ...
 
 #### Jorge's notes
 
 - Super cool talk to get to know React Hooks in 40 min. 👏🏻
 - [Slides](https://slides.com/carlosperezjimeno/reacthooks#/)
+
+## Cloud-native monitoring with Prometheus
+
+#### Asistentes
+
+- Victor Ibañez
+- ...
 
 ## Wrap-up
 
@@ -287,4 +311,3 @@ marp -p PITCHME.md -o dist/PITCHME.html
   - Serverless
   - Reactive programming
   - ML
-
