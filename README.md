@@ -2,9 +2,25 @@
 
 Notes about the conference. Just the highlights. Zero fat.
 
+In this document you can find our notes.
+
+In the file [PITCHME.md](PITCHME.md) you can find the [Marp](https://marp.app/#get-started) presentation. To preview the presentation you can execute the following command:
+
+```bash
+marp -p PITCHME.md -o dist/PITCHME.html
+```
+
 ## September 24 - Tuesday
 
 ### Thinking like a Founder - Chad Arimura
+
+#### Asistentes
+
+- Jorge Mora - **Quiero hablar de esta presentación**
+- Victor Ibañez
+- ...
+
+#### Jorge's notes
 
 - CEO's functions:
   - People
@@ -19,6 +35,14 @@ Notes about the conference. Just the highlights. Zero fat.
 
 ### Speeding up Innovation - Arun Gupta
 
+#### Asistentes
+
+- Jorge Mora
+- Victor Ibañez
+- ...
+
+#### Jorge's notes
+
 - "You don't hire a VP of innovation."
 - "There is no economy of scale in software". In other words, 1000 crappy programmers don't make a good software project just because they are many whether or not they are very well organized.
 - Cloud Native
@@ -28,6 +52,14 @@ Notes about the conference. Just the highlights. Zero fat.
 - "YOU CANNOT PREDICT FAILURE. FAILURE HAPPENS." Be prepared for that. The answer is "Chaos engineering".
 
 ### The Reactive Revolution - Josh Long
+
+#### Asistentes
+
+- Jorge Mora
+- Victor Ibañez
+- ...
+
+#### Jorge's notes
 
 - [Talk source code](https://github.com/joshlong/reactive-revolution)
 - [Reactive Spring Book](http://www.reactivespring.io/)
@@ -40,6 +72,13 @@ Notes about the conference. Just the highlights. Zero fat.
 - Router function to declare endpoints
 
 ### The Future of Serverless Java - Chad Arimura
+
+#### Asistentes
+
+- Jorge Mora
+- ...
+
+#### Jorge's notes
 
 - 80% of the world is using Java
 - But Java is not popular in serverless environments
@@ -59,9 +98,31 @@ Notes about the conference. Just the highlights. Zero fat.
 
 ### Artificial Stupidity - Alex Fernández
 
+#### Asistentes
+
+- Jorge Mora
+- ...
+
+#### Jorge's notes
+
 - Just a funny talk about artificial intelligence
 
+### Google Assistant's Smart Home API in practice
+
+#### Asistentes
+
+- Victor Ibañez
+- ...
+
 ### One Click Development Environments - Pablo Chico de Guzman
+
+#### Asistentes
+
+- Jorge Mora
+- Victor Ibañez
+- ...
+
+#### Jorge's notes
 
 - [Okteto](https://okteto.com/) - K8s for developers
 - People does not develop with docker or k8s. People uses native development and docker just for dependencies.
@@ -74,6 +135,14 @@ Notes about the conference. Just the highlights. Zero fat.
 
 ### Descubriendo Quarkus, java sub-atómico en acción - Katia Aresti y Aurea Amunozhe
 
+#### Asistentes
+
+- Jorge Mora
+- Victor Ibañez **Quiero hablar de esta presentación**
+- ...
+
+#### Jorge's notes
+
 - [Quarkus](https://quarkus.io/) is a new thing. Not yet ready for production.
 - microservices and serverless environment for Java EE people
 - Includes hot reloading!
@@ -85,11 +154,27 @@ Notes about the conference. Just the highlights. Zero fat.
 
 ### El futuro era esto: Reconocimiento facial sobre video en tiempo real sin servidores - Javier Ramirez
 
+#### Asistentes
+
+- Jorge Mora
+- Victor Ibañez **Quiero hablar de esta presentación**
+- ...
+
+#### Jorge's notes
+
 - [Amazon Rekognition](https://aws.amazon.com/es/rekognition/)
 - [Amazon Kinesis Video Stream](https://aws.amazon.com/es/kinesis/video-streams/)
 - Don't be evil using this technology
 
 ### Dev Tools para Kubernetes - Pablo Chico de Guzman y Micael Gallego Carrillo
+
+#### Asistentes
+
+- Jorge Mora
+- Victor Ibañez
+- ...
+
+#### Jorge's notes
 
 - Optimizations to enable developing in a K8s environment
   - [JIB](https://github.com/GoogleContainerTools/jib) to create optimized docker images for development
@@ -102,6 +187,14 @@ Notes about the conference. Just the highlights. Zero fat.
 ## September 25 - Wednesday
 
 ### Taking Back “Software Engineering” by Dave Farley
+
+#### Asistentes
+
+- Jorge Mora
+- Victor Ibañez
+- ...
+
+#### Jorge's notes
 
 - "UML is only a tool. It's not engineering"
 - Solid disciplines are made with solid principles
@@ -123,47 +216,93 @@ Notes about the conference. Just the highlights. Zero fat.
   - Experimental
   - Empirical
 - Iterative vs. Incremental  
-![Iterative vs. Incremental](images/incrementalVsIterative.png)
+  ![Iterative vs. Incremental](images/incrementalVsIterative.png)
 - The most expensive user story: "As the President of the U.S.A. I want to send a man to the moon before the end of this decade". JFK 1961.
 - If you have a BIG challenge, you have to be experimental. Waterfall was not an option to send a man to the moon.
 - The first engineer. 🙇🏻‍  
-![Margaret Hamilton](images/margaret_hamilton.jpg)
+  ![Margaret Hamilton](images/margaret_hamilton.jpg)
 - Experimentation and learning: The Ranger Programme (to "hit" the moon)  
-![The Ranger Programme](images/Dave_Farley_Being_Experimental.jpg)
+  ![The Ranger Programme](images/Dave_Farley_Being_Experimental.jpg)
 - Just guessing is not good enough. You have to measure it!
 - Be empirical
 - Continuous delivery as an engineering principle
 - Don't be _like_ engineers. **Be** engineers.
 
-### Building Reactive Pipelines: How to go from scalable apps to (ridiculously) scalable systems - Mark Heckler
+### Building Reactive Pipelines: How to go from scalable apps to (ridiculously) scalable systems - Mark Heckler
+
+#### Asistentes
+
+- Jorge Mora
+- Victor Ibañez
+- ...
+
+#### Jorge's notes
 
 - Definition of reactive programming  
-![Definition of reactive programming](images/MarkHeckler_Reactive_programming_definition.jpg)
+  ![Definition of reactive programming](images/MarkHeckler_Reactive_programming_definition.jpg)
 - [Spring Cloud Stream](https://spring.io/projects/spring-cloud-stream)
 - Connecting two processors with configuration 😮
-![Connecting two processors with configuration](images/MarkHeckler_connecting_Processors.jpg)
+  ![Connecting two processors with configuration](images/MarkHeckler_connecting_Processors.jpg)
 - Resources  
-![Resources](images/MarkHeckler_Resources.jpg)
-  
+  ![Resources](images/MarkHeckler_Resources.jpg)
+
 ### Midiendo la calidad de código en WTF/min (con ejemplos de código real que... - David Gómez
+
+#### Asistentes
+
+- Jorge Mora
+- ...
+
+#### Jorge's notes
 
 - Funny talk about crappy code. 😂
 - Highly inspired by Clean Code by Uncle Bob
 
 ### ¡GraalVM y Micronaut: compañeros perfectos! - Iván López (el humilde)
 
+#### Asistentes
+
+- Jorge Mora
+- Victor Ibañez **Quiero hablar de esta presentación**
+- ...
+
+#### Jorge's notes
+
 - Micronaut was designed to take advantage of AOT instead of reflection and other non-friendly GraalVM techniques.
 
 ### Operational Serverless - Vicenç García Altés
+
+#### Asistentes
+
+- Jorge Mora
+- ...
+
+#### Jorge's notes
 
 ![Trap](images/trap.gif)
 
 ### React hooks, bye bye to classes - ~~Victor Ibáñez Aparicio~~ Carlos P. Jimeno
 
+#### Asistentes
+
+- Jorge Mora
+- ...
+
+#### Jorge's notes
+
 - Super cool talk to get to know React Hooks in 40 min. 👏🏻
 - [Slides](https://slides.com/carlosperezjimeno/reacthooks#/)
 
+## Cloud-native monitoring with Prometheus
+
+#### Asistentes
+
+- Victor Ibañez
+- ...
+
 ## Wrap-up
+
+#### Jorge's notes
 
 - Unbalanced talks. Some of them very good with international speakers, some very poor. Luckily, the poor ones were the few.
 - Overall, a very well organized conference. Watching the conferences in a cinema was great.
@@ -172,4 +311,3 @@ Notes about the conference. Just the highlights. Zero fat.
   - Serverless
   - Reactive programming
   - ML
-
