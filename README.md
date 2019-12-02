@@ -57,6 +57,7 @@ marp -p PITCHME.md -o dist/PITCHME.html
 
 - Jorge Mora
 - Victor Ibañez
+- Juan Carlos Rivera
 - ...
 
 #### Jorge's notes
@@ -71,11 +72,18 @@ marp -p PITCHME.md -o dist/PITCHME.html
 - Let the client control the flow
 - Router function to declare endpoints
 
+
+#### JC's notes
+- Spring Reactive Web module in start.spring.io / ReactiveCrudRepository / Mono VS Flush
+- [Spring Podcasts](https://spring.io/team/jlong)
+- Spring initializer (dependency: Spring Reactive Web)
+
 ### The Future of Serverless Java - Chad Arimura
 
 #### Asistentes
 
 - Jorge Mora
+- Juan Carlos Rivera
 - ...
 
 #### Jorge's notes
@@ -95,6 +103,13 @@ marp -p PITCHME.md -o dist/PITCHME.html
       - Text blocks with """
       - switch expressions
   - Simplified native code access with [Project Panama](https://openjdk.java.net/projects/panama/)
+
+#### JC's notes
+- Java 11 
+    - Introduction of var reduces BoilerPlate
+    - New switch expressions
+    - Improvements lambda
+    - Text Blocks (""")
 
 ### Artificial Stupidity - Alex Fernández
 
@@ -120,6 +135,7 @@ marp -p PITCHME.md -o dist/PITCHME.html
 
 - Jorge Mora
 - Victor Ibañez
+- Juan Carlos Rivera **Quiero hablar de esta presentación**
 - ...
 
 #### Jorge's notes
@@ -133,12 +149,32 @@ marp -p PITCHME.md -o dist/PITCHME.html
 - [VS Code Server](https://github.com/cdr/code-server)
 - Also good to develop in a remote cloud environment
 
+
+#### JC's notes
+
+- PaaS for a development environment in Kubernetes [Okteto](https//cloud.okteto.com)
+- How can a development environment be classified?
+    - Replicable: All developers will have the same experiencie
+    - Integrated: As much similar to production as possible.
+    - Efficient: Fast to install and work with
+- Vagrant: Allow us to create and configure lightweight, reproducible, and portable development environments.
+- Types of environments:
+    - Local: Fast but not replicable
+    - Vagrant: Slow
+    - Docker: Slow
+    - Kubernetes: Slow
+    - Cloud Native development - Really fast, the bad part is that you dont have your IDE with your extensions to keep working on it
+    - New plugin VS Code Remote SSH - You can create a SSH connection to a remote machine (development) and you can debug using your IDE.
+    - It provides you the possibility to develop directly inside a pod of kubernetes or a container it avoids the creation of the container when the development changes.
+
+
 ### Descubriendo Quarkus, java sub-atómico en acción - Katia Aresti y Aurea Amunozhe
 
 #### Asistentes
 
 - Jorge Mora
 - Victor Ibañez **Quiero hablar de esta presentación**
+- Juan Carlos Rivera
 - ...
 
 #### Jorge's notes
@@ -152,12 +188,18 @@ marp -p PITCHME.md -o dist/PITCHME.html
 - Direct rivals of Spring Boot. No integration foreseen.
 - Demo: [Harry Potter Quarkus](https://github.com/infinispan-demos/harry-potter-quarkus)
 
+#### JC's notes
+- Quarkus: Red Hat initiative, it allows you to create app java that can run in cloud native. Hot reloading (supersonic Java)
+- Deployment in a declarative way
+- GraalVM: It does not provide dynamic classloading and reflection
+
 ### El futuro era esto: Reconocimiento facial sobre video en tiempo real sin servidores - Javier Ramirez
 
 #### Asistentes
 
 - Jorge Mora
 - Victor Ibañez **Quiero hablar de esta presentación**
+- Juan Carlos Rivera
 - ...
 
 #### Jorge's notes
@@ -165,6 +207,9 @@ marp -p PITCHME.md -o dist/PITCHME.html
 - [Amazon Rekognition](https://aws.amazon.com/es/rekognition/)
 - [Amazon Kinesis Video Stream](https://aws.amazon.com/es/kinesis/video-streams/)
 - Don't be evil using this technology
+- AWS Lambda: You can provide Amazon your code and when an event is triggered, that code will be executed in Amazon and will provide you the result. You pay by millisecond that the code is running. You dont care about the server.
+
+Me das tu código y cuando pase un evento, lo ejecutas. PAgas por milisegundo que hay en ejecución. No te importa nada del servidor.
 
 ### Dev Tools para Kubernetes - Pablo Chico de Guzman y Micael Gallego Carrillo
 
@@ -172,6 +217,7 @@ marp -p PITCHME.md -o dist/PITCHME.html
 
 - Jorge Mora
 - Victor Ibañez
+- Juan Carlos Rivera
 - ...
 
 #### Jorge's notes
@@ -183,6 +229,38 @@ marp -p PITCHME.md -o dist/PITCHME.html
   - Other tools
     - [Telepresence](https://www.telepresence.io/)
     - [KubeFwd](https://kubefwd.com/)
+
+#### JC's notes
+- Kubernetes native application
+- Layer's optimization. It splits code of libraries by layers. That way you send less information
+- Jib -> Google container Tools (jib-maven-plugin)
+- Jib allows you to build and upload that image by layers as easy as 'compile jib:build'
+
+### Tips para mejorar la gestión de tu tiempo - Adolfo Sanz De Diego
+
+#### Asistentes
+- Javier del Aguila **Quiero hablar de esta presentación**
+- Juan Carlos Rivera
+
+#### JC's notes
+- Videos gestión del tiempo
+    - Gettings Things Done (GT) | David Allen
+    - The 7 habits of highly effective people | Stephen Covey
+
+- Charlas TED
+    - How to gain control of your free Time | Laura Vanderkam
+    - How to stop screweing yourself over
+    - La regla de los 5 segundos para no procrastinar
+    - What makes a good life? 
+			
+- Tips varios:
+    - Sé proactivo y haz primero lo primero 
+    - Concepto "The Pareto Principle" ->  Do more by Doing Less 
+        80 / 20 rule -> El 80% de las consecuencias provienen del 20% de las causas
+        https://es.wikipedia.org/wiki/Principio_de_Pareto
+        
+- Herramientas
+    - Calendario, Lista de tareas, Otras listas, Alarmas, Reglas de correo...
 
 ## September 25 - Wednesday
 
@@ -234,6 +312,7 @@ marp -p PITCHME.md -o dist/PITCHME.html
 
 - Jorge Mora
 - Victor Ibañez
+- Juan Carlos Rivera
 - ...
 
 #### Jorge's notes
@@ -246,11 +325,29 @@ marp -p PITCHME.md -o dist/PITCHME.html
 - Resources  
   ![Resources](images/MarkHeckler_Resources.jpg)
 
+#### JC's notes
+- Mark Heckler twitter: @mkheck
+- Important blogs posts:
+    - https://thehecklers.com/
+	- Spanish springs news (https://springnoticias.io/)
+- Reactive Programming: Keys are source, processor and sink
+- Reactive streams (publisher, subscriber, subscription and processor --> Spring: Source, processor and sink)
+- Dependency in spring initializer (start.spring.io) is Reactive cloud stream
+- You can define in which microservice the binding is: spring.cloud.stream.bindings.output.destination=source
+- You can define the functions name: spring.cloud.stream.bindings.function.definition=checkIn 
+- Decide the class using annotations:  @EnableBinding(Source.class)
+- Decide the processor using annotations:  @EnableBinding(Processor.class)
+- lombok - @Value (setters and getters implicit) @AllArgsConstructor
+- Flux<Model>
+- [Example](https://github.com/mkheck/building-reactive-pipelines)
+
+
 ### Midiendo la calidad de código en WTF/min (con ejemplos de código real que... - David Gómez
 
 #### Asistentes
 
 - Jorge Mora
+- Juan Carlos Rivera
 - ...
 
 #### Jorge's notes
@@ -258,17 +355,40 @@ marp -p PITCHME.md -o dist/PITCHME.html
 - Funny talk about crappy code. 😂
 - Highly inspired by Clean Code by Uncle Bob
 
+#### JC's notes
+- Clean code
+- What about building a hall of fame of WTF of bad code that will be published when they are fixed.
+- Code must be written by a developer, not by a computer
+- Devs spend most of time reading code and not writing it.
+- Tips: 
+    - Be careful with comments, we need to describe why it does it and not what it does
+    - Review javadoc of spring framework, is really good
+    - Exceptions: Catch only if you know what to do with them, not just throwing them again.
+    - Remove unnecessary code
+
 ### ¡GraalVM y Micronaut: compañeros perfectos! - Iván López (el humilde)
 
 #### Asistentes
 
 - Jorge Mora
 - Victor Ibañez **Quiero hablar de esta presentación**
+- Juan Carlos Rivera
 - ...
 
 #### Jorge's notes
 
 - Micronaut was designed to take advantage of AOT instead of reflection and other non-friendly GraalVM techniques.
+
+#### JC's notes
+
+- GraalVM: Oracle's virtual machine undertands several language (java, scala, groovy, y a parte ruby, python, js, r)
+- Micronaut: 
+    - Framework for microservices in JVM
+    - Is AoT (Ahead of compilation): At runtime, it generates metadata classes so it does not have to keep them in memory, it does not matter if the app is really big.
+    - It provides Cloud Native
+    - Micronaut Data (toolkit for data access, similar to spring data)
+    - Compilation Time really really high but the time to boost ys really low.
+
 
 ### Operational Serverless - Vicenç García Altés
 
@@ -299,6 +419,11 @@ marp -p PITCHME.md -o dist/PITCHME.html
 
 - Victor Ibañez
 - ...
+
+### Perfectionism, Impostor Syndrome and Anxiety - Understanding your fears and learning to be kind to yourself - Jo Franchetti
+
+#### Asistentes
+- Javier del Aguila **Quiero hablar de esta presentación**
 
 ## Wrap-up
 
