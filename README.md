@@ -184,6 +184,11 @@ marp -p PITCHME.md -o dist/PITCHME.html
     - [Telepresence](https://www.telepresence.io/)
     - [KubeFwd](https://kubefwd.com/)
 
+### Tips para mejorar la gestión de tu tiempo - Adolfo Sanz De Diego
+
+#### Asistentes
+- Javier del Aguila **Quiero hablar de esta presentación**
+
 ## September 25 - Wednesday
 
 ### Taking Back “Software Engineering” by Dave Farley
@@ -299,6 +304,11 @@ marp -p PITCHME.md -o dist/PITCHME.html
 
 - Victor Ibañez
 - ...
+
+### Perfectionism, Impostor Syndrome and Anxiety - Understanding your fears and learning to be kind to yourself - Jo Franchetti
+
+#### Asistentes
+- Javier del Aguila **Quiero hablar de esta presentación**
 
 ## Wrap-up
 
