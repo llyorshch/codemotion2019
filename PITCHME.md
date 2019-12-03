@@ -44,7 +44,7 @@ theme: uncover
 
 #### ¡GraalVM y Micronaut: compañeros perfectos! - Iván López (El simpático)
 
-- GraalVM: VM pológlota de Oracle
+- GraalVM: VM políglota de Oracle
 - Sin reflexión ni runtime proxies
   ![width:900](images/graalvm_architecture.png)
 
@@ -144,22 +144,86 @@ theme: uncover
 
 <!-- Javier del Águila -->
 
-#### Tips para mejorar la gestión de tu tiempo - Adolfo Sanz De Diego
+#### Tips para mejorar la gestión de tu tiempo  
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Mauris suscipit luctus volutpat.
-- Maecenas at lacus nec velit bibendum ullamcorper.
+**Adolfo Sanz De Diego**
+
+- Creador de una comunidad, organizador de hackathones, profesor de universidad, imparte cursos de tecnología, asesor técnico y padre de dos hijas
+---
+#### Planificar
+- Lista Tareas: Cortas, concretas y agendables
+- **Agendar** y poner alarmas
+
+| | Urgente | No Urgente |
+| --- |  --- | --- |
+**Importante**| Hazlo! | Agéndalo | 
+**No Importante**| Delega | Olvida |
+
+---
+#### Consejos
+- Si <2 min hazlo
+- Aprende a decir que no (O posponer)
+- Conoce tus herramientas
+- Orden
+- Automatizar: scripts, filtros de email, etc.. 
+
+---
+ #### Distracciones
+ - Darse de baja de listas de correo
+ - Redes sociales cerradas
+ - Cerrar pestañas que no utilicemos
+ - Primero lo primero/importante
+ - Regla de los 5 segundos
 
 ---
 
-#### Perfectionism, Impostor Syndrome and Anxiety - Understanding your fears and learning to be kind to yourself - Jo Franchetti
+ #### Interrupciones 
+ - Modo no molestar en móvil y pc
+ - Correo 2/3 veces al día
+ - Una cosa a la vez
+ - Mejor una llamada que un mail
+ - Cascos
+ - Reuniones <1h con agenda clara
+---
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Mauris suscipit luctus volutpat.
-- Maecenas at lacus nec velit bibendum ullamcorper.
+#### Perfectionism, Impostor Syndrome and Anxiety - Understanding your fears and learning to be kind to yourself  
+**Jo Franchetti**
 
 ---
 
+#### Sindrome del impostor
+
+- Sensación de que los demás son mejores que tú
+- Miedo a pedir ayuda por parecer ignorante
+- Pánico a justificar en el daily tu trabajo diario  -> sobreesfuerzo
+- Sensación de que no mereces estar donde estás y de que van a descubrir que eres un fraude
+- Miedo a colaborar en un proyecto opensource por no estar al nivel
+---
+
+#### Perfeccionismo
+
+- Autoexigirse un nivel inalcanzable
+- Preocupación por lo que piensen los demás
+- "Bastante bien" no es suficiente
+- Miedo a entregar un trabajo porque alguien pueda encontrar un error
+- Dejar cosas inacabadas por no conseguir exáctamente lo que se pretendía en un principio
+- Pedir ayuda es no ser perfecto
+
+---
+#### Consejos
+
+- "Perfecto" es un enemigo de "muy bien"
+- Pedir ayuda te hace mejorar y ahorrar tiempo
+- Nadie te va a criticar más que tú mismo
+- Si alguien encuentra un error, es una oportunidad para aprender
+- Hablar de tus problemas y ayudar a los demás
+
+---
+*"We learn most when reality does NOT match our predictions"*
+
+**Dave Farley**
+
+---
 #### Wrap-up
 
 - PLEASE, APORTAD AQUÍ VUESTRAS CONCLUSIONES
