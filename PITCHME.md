@@ -3,13 +3,28 @@ marp: true
 theme: uncover
 ---
 
+<!--  Reglas generales -->
+
 # Codemotion 2019
 
 #### Mimacom|Flowable expedition selected notes & things we learned
 
 ---
 
-## Thinking like a Founder - Chad Arimura
+<!-- Jorge -->
+
+#### Thinking like a Founder  - Chad Arimura
+
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Mauris suscipit luctus volutpat.
+- Maecenas at lacus nec velit bibendum ullamcorper.
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Mauris suscipit luctus volutpat.
+- Maecenas at lacus nec velit bibendum ullamcorper.
+
+---
+
+#### Taking Back “Software Engineering” - Dave Farley
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 - Mauris suscipit luctus volutpat.
@@ -17,46 +32,123 @@ theme: uncover
 
 ---
 
-## Speeding up Innovation - Arun Gupta
+#### The Future of Serverless Java - Chad Arimura
 
-- Curabitur placerat malesuada libero sit amet auctor.
-- Integer at dictum quam. Ut at vulputate enim.
-- Vivamus eu lacinia justo, vehicula lacinia odio.
-- Maecenas tempor, lorem at dignissim tristique, nisl massa ultrices dui, vitae sagittis urna purus sit amet metus.
-
----
-
-### The Reactive Revolution - Josh Long
-
-- In eget leo sed ipsum auctor posuere.
-- Nam rhoncus odio quis urna feugiat, nec porta tellus pulvinar.
-- Mauris congue purus vitae ipsum porta pharetra.
-- Curabitur hendrerit pretium lorem.
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Mauris suscipit luctus volutpat.
+- Maecenas at lacus nec velit bibendum ullamcorper.
 
 ---
 
-### The Future of Serverless Java - Chad Arimura
+<!-- Victor -->
 
-- Suspendisse at diam placerat, viverra ante sed, bibendum dolor.
-- Duis varius nisi sed vehicula ornare.
+#### Descubriendo Quarkus, java sub-atómico en acción - Katia Aresti y Aurea Amunozhe
 
----
-
-### Descubriendo Quarkus, java sub-atómico en acción - Katia Aresti y Aurea Amunozhe
-
-## -
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Mauris suscipit luctus volutpat.
+- Maecenas at lacus nec velit bibendum ullamcorper.
 
 ---
 
-### El futuro era esto: Reconocimiento facial sobre video en tiempo real sin servidores - Javier Ramirez
+#### El futuro era esto: Reconocimiento facial sobre video en tiempo real sin servidores - Javier Ramirez
 
-## -
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Mauris suscipit luctus volutpat.
+- Maecenas at lacus nec velit bibendum ullamcorper.
 
 ---
 
-### ¡GraalVM y Micronaut: compañeros perfectos! - Iván López (el humilde)
+#### ¡GraalVM y Micronaut: compañeros perfectos! - Iván López
 
-## -
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Mauris suscipit luctus volutpat.
+- Maecenas at lacus nec velit bibendum ullamcorper.
+
+---
+
+<!-- Javi Ruiz -->
+
+#### Lo nuevo de CSS - Sonia Ruiz
+
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Mauris suscipit luctus volutpat.
+- Maecenas at lacus nec velit bibendum ullamcorper.
+
+---
+
+<!-- Alex -->
+
+#### Interfaces en tiempo real con Angular y Redux - Antonio Pérez y Manuel Maldonado
+
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Mauris suscipit luctus volutpat.
+- Maecenas at lacus nec velit bibendum ullamcorper.
+
+---
+
+#### How to build Javascript-powered Smartglasses (without any soldering knowledge) - Ruben van der Leun
+
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Mauris suscipit luctus volutpat.
+- Maecenas at lacus nec velit bibendum ullamcorper.
+
+---
+
+#### Are Web Components the Betamax of Web Development? - Horacio Gonzalez
+
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Mauris suscipit luctus volutpat.
+- Maecenas at lacus nec velit bibendum ullamcorper.
+
+---
+
+#### React hooks, bye bye to classes - Carlos P. Jimeno
+
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Mauris suscipit luctus volutpat.
+- Maecenas at lacus nec velit bibendum ullamcorper.
+
+---
+
+<!-- Juan Carlos -->
+
+#### The Reactive Revolution - Josh Long
+
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Mauris suscipit luctus volutpat.
+- Maecenas at lacus nec velit bibendum ullamcorper.
+
+---
+
+#### One Click Development Environments - Pablo Chico de Guzman
+
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Mauris suscipit luctus volutpat.
+- Maecenas at lacus nec velit bibendum ullamcorper.
+
+---
+
+<!-- Javier del Águila -->
+
+#### Tips para mejorar la gestión de tu tiempo - Adolfo Sanz De Diego
+
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Mauris suscipit luctus volutpat.
+- Maecenas at lacus nec velit bibendum ullamcorper.
+
+---
+
+#### Perfectionism, Impostor Syndrome and Anxiety - Understanding your fears and learning to be kind to yourself - Jo Franchetti
+
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Mauris suscipit luctus volutpat.
+- Maecenas at lacus nec velit bibendum ullamcorper.
+
+---
+
+#### Wrap-up
+
+- PLEASE, APORTAD AQUÍ VUESTRAS CONCLUSIONES
 
 ---
 
