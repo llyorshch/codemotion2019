@@ -42,27 +42,35 @@ theme: uncover
 
 <!-- Victor -->
 
+#### ¡GraalVM y Micronaut: compañeros perfectos! - Iván López (El simpático)
+
+- GraalVM: VM políglota de Oracle
+- Sin reflexión ni runtime proxies
+  ![width:900](images/graalvm_architecture.png)
+
+---
+
 #### Descubriendo Quarkus, java sub-atómico en acción - Katia Aresti y Aurea Amunozhe
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Mauris suscipit luctus volutpat.
-- Maecenas at lacus nec velit bibendum ullamcorper.
+- Quakus 1.0.0 Final --> 25 de Noviembre 2019
+- Container First
+- Standards-based (RESTEasy and JAX-RS, Hibernate ORM and JPA, Netty, Eclipse Vert.x, Eclipse MicroProfile, Apache Camel, Spring, etc)
+- Microservice First: Fast startup time and code turn around to Java apps
+
+---
+
+#### Descubriendo Quarkus, java sub-atómico en acción - Katia Aresti y Aurea Amunozhe
+
+![width:800px](images/quarkus_rest_crud_size.png)
+![width:900px](images/quarkus_rest_crud_time.png)
 
 ---
 
 #### El futuro era esto: Reconocimiento facial sobre video en tiempo real sin servidores - Javier Ramirez
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Mauris suscipit luctus volutpat.
-- Maecenas at lacus nec velit bibendum ullamcorper.
-
----
-
-#### ¡GraalVM y Micronaut: compañeros perfectos! - Iván López
-
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Mauris suscipit luctus volutpat.
-- Maecenas at lacus nec velit bibendum ullamcorper.
+- AWS Rekognition
+- Análisis de imágenes, videos y reconocimiento facial<br/>
+  ![width:1000px](images/aws_architecture.png)
 
 ---
 
@@ -143,17 +151,40 @@ theme: uncover
 
 #### Interfaces en tiempo real con Angular y Redux - Antonio Pérez y Manuel Maldonado
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Mauris suscipit luctus volutpat.
-- Maecenas at lacus nec velit bibendum ullamcorper.
+- Típicos problemas en aplicaciones frontend
+- Patrón Flux:
+  - Store como única fuente de verdad
+  - Acciones como reglas para cambiar el estado del Store
+- Valoración del uso de Redux en un proyecto
 
 ---
 
-#### How to build Javascript-powered Smartglasses (without any soldering knowledge) - Ruben van der Leun
+#### Interfaces en tiempo real con Angular y Redux - Antonio Pérez y Manuel Maldonado
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Mauris suscipit luctus volutpat.
-- Maecenas at lacus nec velit bibendum ullamcorper.
+- Ejemplo práctico del uso en Angular con NgRx con múltiples fuentes de datos
+  - Módulos
+  - Estructura recomendada
+  - Acciones -> Efectos -> Acciones
+
+---
+
+#### How to build Javascript-powered Smartglasses - Ruben van der Leun
+
+- Smartglasses / Vuzix prototype
+- Motivación
+- 3 elementos hardware:
+  - Vufine
+  - Raspberri Pi
+  - Powerbank
+
+---
+
+#### How to build Javascript-powered Smartglasses - Ruben van der Leun
+
+- Software: Rubeye platform connected with a Webapp
+- Demo: navegador, cámara, Youtube, GoogleMaps, Face-Recognition
+- Conclusiones
+- Nuevos retos
 
 ---
 
@@ -175,37 +206,140 @@ theme: uncover
 
 <!-- Juan Carlos -->
 
-#### The Reactive Revolution - Josh Long
+#### Building Reactive Pipelines - Mark Heckler
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Mauris suscipit luctus volutpat.
-- Maecenas at lacus nec velit bibendum ullamcorper.
+- Procesamiento de datos asíncrono, no bloqueante y orientado a eventos
+- Reactive Stream API
+- Reactive Cloud Stream (requiere una cola de mensajería: Kafka, RabbitMQ)
+- Publisher<T>, Processor<T,R>, Subscriber<T>, Subscription. 
+- Mono vs Flux
+
+---
+
+#### Building Reactive Pipelines - Mark Heckler
+
+- Publisher @EnableBinding(Source.class)
+- Processor @EnableBinding(Processor.class)
+- Subscriber @EnableBinding(Sink.class)
 
 ---
 
 #### One Click Development Environments - Pablo Chico de Guzman
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Mauris suscipit luctus volutpat.
-- Maecenas at lacus nec velit bibendum ullamcorper.
+- Entorno de desarrollo: replicable, integrado, rápido
+
+| | Replicable | Integrado | Rápido
+| --- |  --- | --- | --- |
+**Local**| NO | NO | SÍ |
+**Vagrant**| SÍ | SÍ | NO |
+**Docker**| SÍ | SÍ | NO |
 
 ---
+#### One Click Development Environments - Pablo Chico de Guzman
 
+- Cloud Native Development: pod mutables, cambio de imagen local en el pod
+    - Sincronización código desde el propio editor en local hasta el pod
+
+    
+| | Replicable | Integrado | Rápido
+| --- |  --- | --- | --- |
+**Cloud Native**| SÍ | SÍ | SÍ |
+
+- Visual Studio Code Remote development
+---
 <!-- Javier del Águila -->
 
-#### Tips para mejorar la gestión de tu tiempo - Adolfo Sanz De Diego
+#### Tips para mejorar la gestión de tu tiempo
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Mauris suscipit luctus volutpat.
-- Maecenas at lacus nec velit bibendum ullamcorper.
+**Adolfo Sanz De Diego**
+
+- Creador de una comunidad, organizador de hackathones, profesor de universidad, imparte cursos de tecnología, asesor técnico y padre de dos hijas
 
 ---
 
-#### Perfectionism, Impostor Syndrome and Anxiety - Understanding your fears and learning to be kind to yourself - Jo Franchetti
+#### Planificar
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Mauris suscipit luctus volutpat.
-- Maecenas at lacus nec velit bibendum ullamcorper.
+- Lista Tareas: Cortas, concretas y agendables
+- **Agendar** y poner alarmas
+
+|                   | Urgente | No Urgente |
+| ----------------- | ------- | ---------- |
+| **Importante**    | Hazlo!  | Agéndalo   |
+| **No Importante** | Delega  | Olvida     |
+
+---
+
+#### Consejos
+
+- Si <2 min hazlo
+- Aprende a decir que no (O posponer)
+- Conoce tus herramientas
+- Orden
+- Automatizar: scripts, filtros de email, etc..
+
+---
+
+#### Distracciones
+
+- Darse de baja de listas de correo
+- Redes sociales cerradas
+- Cerrar pestañas que no utilicemos
+- Primero lo primero/importante
+- Regla de los 5 segundos
+
+---
+
+#### Interrupciones
+
+- Modo no molestar en móvil y pc
+- Correo 2/3 veces al día
+- Una cosa a la vez
+- Mejor una llamada que un mail
+- Cascos
+- Reuniones <1h con agenda clara
+
+---
+
+#### Perfectionism, Impostor Syndrome and Anxiety - Understanding your fears and learning to be kind to yourself
+
+**Jo Franchetti**
+
+---
+
+#### Sindrome del impostor
+
+- Sensación de que los demás son mejores que tú
+- Miedo a pedir ayuda por parecer ignorante
+- Pánico a justificar en el daily tu trabajo diario -> sobreesfuerzo
+- Sensación de que no mereces estar donde estás y de que van a descubrir que eres un fraude
+- Miedo a colaborar en un proyecto opensource por no estar al nivel
+
+---
+
+#### Perfeccionismo
+
+- Autoexigirse un nivel inalcanzable
+- Preocupación por lo que piensen los demás
+- "Bastante bien" no es suficiente
+- Miedo a entregar un trabajo porque alguien pueda encontrar un error
+- Dejar cosas inacabadas por no conseguir exáctamente lo que se pretendía en un principio
+- Pedir ayuda es no ser perfecto
+
+---
+
+#### Consejos
+
+- "Perfecto" es un enemigo de "muy bien"
+- Pedir ayuda te hace mejorar y ahorrar tiempo
+- Nadie te va a criticar más que tú mismo
+- Si alguien encuentra un error, es una oportunidad para aprender
+- Hablar de tus problemas y ayudar a los demás
+
+---
+
+_"We learn most when reality does NOT match our predictions"_
+
+**Dave Farley**
 
 ---
 
