@@ -39,7 +39,7 @@ marp -p PITCHME.md -o dist/PITCHME.html
 
 - Jorge Mora
 - Victor Ibañez
-- ...
+- Alex García
 
 #### Jorge's notes
 
@@ -58,7 +58,7 @@ marp -p PITCHME.md -o dist/PITCHME.html
 - Jorge Mora
 - Victor Ibañez
 - Juan Carlos Rivera
-- ...
+- Alex García
 
 #### Jorge's notes
 
@@ -72,11 +72,32 @@ marp -p PITCHME.md -o dist/PITCHME.html
 - Let the client control the flow
 - Router function to declare endpoints
 
-
 #### JC's notes
+
 - Spring Reactive Web module in start.spring.io / ReactiveCrudRepository / Mono VS Flush
 - [Spring Podcasts](https://spring.io/team/jlong)
 - Spring initializer (dependency: Spring Reactive Web)
+
+### Lo nuevo de CSS - Sonia Ruiz
+
+#### Asistentes
+
+- Alberto Chovares
+- Javi Ruiz
+- Alex García (Youtube) **Quiero hablar de esta presentación**
+
+#### Alex's notes
+
+- CSS History
+- Can I Use
+- New Properties & Samples:
+  - Pie Chart -> conic-gradient (70%)
+  - Media queries
+    - hover /pointer:coarse (85%)
+    - width >= (0%)
+  - Slider -> scroll-snap (85%)
+  - Pseudo-classes
+    - has (parent selector - 0%)
 
 ### The Future of Serverless Java - Chad Arimura
 
@@ -105,11 +126,32 @@ marp -p PITCHME.md -o dist/PITCHME.html
   - Simplified native code access with [Project Panama](https://openjdk.java.net/projects/panama/)
 
 #### JC's notes
-- Java 11 
-    - Introduction of var reduces BoilerPlate
-    - New switch expressions
-    - Improvements lambda
-    - Text Blocks (""")
+
+- Java 11
+  - Introduction of var reduces BoilerPlate
+  - New switch expressions
+  - Improvements lambda
+  - Text Blocks (""")
+
+### Interfaces en tiempo real con Angular y Redux - Antonio Pérez y Manuel Maldonado @apcano1978 (Digital 55)
+
+#### Asistentes
+
+- Alex García **Quiero hablar de esta presentación**
+- Alberto Chovares
+- Javi Ruiz?
+
+#### Alex's notes
+
+- Angular application with Redux pattern, using NgRX
+- Advantages of using redux:
+  - reduce number of components
+  - events between components
+  - multiple datasources
+  - real-time events
+  - problems arising from asynchrony
+- Redux concepts: store, actions & reducers
+- Sample use case: CRUD with websocket inconming events
 
 ### Artificial Stupidity - Alex Fernández
 
@@ -121,6 +163,21 @@ marp -p PITCHME.md -o dist/PITCHME.html
 #### Jorge's notes
 
 - Just a funny talk about artificial intelligence
+
+### Kotlin Multiplatform - David González (Mixtiles)
+
+#### Asistentes
+
+- Alex García
+
+### Alex's notes
+
+- Kotlin multiplatform as common libraries in a project with iOS & Android native apps.
+- Easier for Android. Plugins needed for building from XCode
+- Cannot debug on iOS (extra plugins for logging)
+- Conclusion:
+  - good solution for a product with native apps
+  - still unstable
 
 ### Google Assistant's Smart Home API in practice
 
@@ -136,7 +193,7 @@ marp -p PITCHME.md -o dist/PITCHME.html
 - Jorge Mora
 - Victor Ibañez
 - Juan Carlos Rivera **Quiero hablar de esta presentación**
-- ...
+- Alex García
 
 #### Jorge's notes
 
@@ -149,24 +206,22 @@ marp -p PITCHME.md -o dist/PITCHME.html
 - [VS Code Server](https://github.com/cdr/code-server)
 - Also good to develop in a remote cloud environment
 
-
 #### JC's notes
 
 - PaaS for a development environment in Kubernetes [Okteto](https//cloud.okteto.com)
 - How can a development environment be classified?
-    - Replicable: All developers will have the same experiencie
-    - Integrated: As much similar to production as possible.
-    - Efficient: Fast to install and work with
+  - Replicable: All developers will have the same experiencie
+  - Integrated: As much similar to production as possible.
+  - Efficient: Fast to install and work with
 - Vagrant: Allow us to create and configure lightweight, reproducible, and portable development environments.
 - Types of environments:
-    - Local: Fast but not replicable
-    - Vagrant: Slow
-    - Docker: Slow
-    - Kubernetes: Slow
-    - Cloud Native development - Really fast, the bad part is that you dont have your IDE with your extensions to keep working on it
-    - New plugin VS Code Remote SSH - You can create a SSH connection to a remote machine (development) and you can debug using your IDE.
-    - It provides you the possibility to develop directly inside a pod of kubernetes or a container it avoids the creation of the container when the development changes.
-
+  - Local: Fast but not replicable
+  - Vagrant: Slow
+  - Docker: Slow
+  - Kubernetes: Slow
+  - Cloud Native development - Really fast, the bad part is that you dont have your IDE with your extensions to keep working on it
+  - New plugin VS Code Remote SSH - You can create a SSH connection to a remote machine (development) and you can debug using your IDE.
+  - It provides you the possibility to develop directly inside a pod of kubernetes or a container it avoids the creation of the container when the development changes.
 
 ### Descubriendo Quarkus, java sub-atómico en acción - Katia Aresti y Aurea Amunozhe
 
@@ -175,7 +230,7 @@ marp -p PITCHME.md -o dist/PITCHME.html
 - Jorge Mora
 - Victor Ibañez **Quiero hablar de esta presentación**
 - Juan Carlos Rivera
-- ...
+- Alex García
 
 #### Jorge's notes
 
@@ -189,9 +244,30 @@ marp -p PITCHME.md -o dist/PITCHME.html
 - Demo: [Harry Potter Quarkus](https://github.com/infinispan-demos/harry-potter-quarkus)
 
 #### JC's notes
+
 - Quarkus: Red Hat initiative, it allows you to create app java that can run in cloud native. Hot reloading (supersonic Java)
 - Deployment in a declarative way
 - GraalVM: It does not provide dynamic classloading and reflection
+
+### How to build Javascript-powered Smartglasses (without any soldering knowledge) - Ruben van der Leun
+
+#### Asistentes
+
+- Alex García **Quiero hablar de esta presentación**
+
+#### Alex's notes
+
+- He wanted to create his own low-cost smart-glasses after using Vuzix (based on Google-Glass)
+- Use of Vufine connected to a Powerbank and a Raspberry Pi
+- Rubeye - platform meant for wearables -
+- Mobile app synchronized with glasses:
+  - Character recognition
+  - Youtube
+  - Google Maps
+- Conclusions
+  - Too expensive (unfeasible production)
+  - Lot of time invested
+  - Useful for prototypes
 
 ### El futuro era esto: Reconocimiento facial sobre video en tiempo real sin servidores - Javier Ramirez
 
@@ -231,6 +307,7 @@ Me das tu código y cuando pase un evento, lo ejecutas. PAgas por milisegundo qu
     - [KubeFwd](https://kubefwd.com/)
 
 #### JC's notes
+
 - Kubernetes native application
 - Layer's optimization. It splits code of libraries by layers. That way you send less information
 - Jib -> Google container Tools (jib-maven-plugin)
@@ -239,28 +316,45 @@ Me das tu código y cuando pase un evento, lo ejecutas. PAgas por milisegundo qu
 ### Tips para mejorar la gestión de tu tiempo - Adolfo Sanz De Diego
 
 #### Asistentes
+
 - Javier del Aguila **Quiero hablar de esta presentación**
 - Juan Carlos Rivera
 
 #### JC's notes
+
 - Videos gestión del tiempo
-    - Gettings Things Done (GT) | David Allen
-    - The 7 habits of highly effective people | Stephen Covey
+
+  - Gettings Things Done (GT) | David Allen
+  - The 7 habits of highly effective people | Stephen Covey
 
 - Charlas TED
-    - How to gain control of your free Time | Laura Vanderkam
-    - How to stop screweing yourself over
-    - La regla de los 5 segundos para no procrastinar
-    - What makes a good life? 
-			
+  - How to gain control of your free Time | Laura Vanderkam
+  - How to stop screweing yourself over
+  - La regla de los 5 segundos para no procrastinar
+  - What makes a good life?
 - Tips varios:
-    - Sé proactivo y haz primero lo primero 
-    - Concepto "The Pareto Principle" ->  Do more by Doing Less 
-        80 / 20 rule -> El 80% de las consecuencias provienen del 20% de las causas
-        https://es.wikipedia.org/wiki/Principio_de_Pareto
-        
+  - Sé proactivo y haz primero lo primero
+  - Concepto "The Pareto Principle" -> Do more by Doing Less
+    80 / 20 rule -> El 80% de las consecuencias provienen del 20% de las causas
+    https://es.wikipedia.org/wiki/Principio_de_Pareto
 - Herramientas
-    - Calendario, Lista de tareas, Otras listas, Alarmas, Reglas de correo...
+  - Calendario, Lista de tareas, Otras listas, Alarmas, Reglas de correo...
+
+### GITTogether: Front(end) to the backend - Beatriz De Miguel Pérez
+
+#### Asistentes
+
+- Alex García
+- Alberto Chovares
+- Javi Ruiz
+
+#### Alex's notes
+
+- Javascript backend with NodeJS
+- MVC Architecture layers
+- Express Frontend app
+- MongoDB
+- For beginners
 
 ## September 25 - Wednesday
 
@@ -326,21 +420,20 @@ Me das tu código y cuando pase un evento, lo ejecutas. PAgas por milisegundo qu
   ![Resources](images/MarkHeckler_Resources.jpg)
 
 #### JC's notes
+
 - Mark Heckler twitter: @mkheck
 - Important blogs posts:
-    - https://thehecklers.com/
-	- Spanish springs news (https://springnoticias.io/)
+  - https://thehecklers.com/ - Spanish springs news (https://springnoticias.io/)
 - Reactive Programming: Keys are source, processor and sink
 - Reactive streams (publisher, subscriber, subscription and processor --> Spring: Source, processor and sink)
 - Dependency in spring initializer (start.spring.io) is Reactive cloud stream
 - You can define in which microservice the binding is: spring.cloud.stream.bindings.output.destination=source
-- You can define the functions name: spring.cloud.stream.bindings.function.definition=checkIn 
-- Decide the class using annotations:  @EnableBinding(Source.class)
-- Decide the processor using annotations:  @EnableBinding(Processor.class)
+- You can define the functions name: spring.cloud.stream.bindings.function.definition=checkIn
+- Decide the class using annotations: @EnableBinding(Source.class)
+- Decide the processor using annotations: @EnableBinding(Processor.class)
 - lombok - @Value (setters and getters implicit) @AllArgsConstructor
 - Flux<Model>
 - [Example](https://github.com/mkheck/building-reactive-pipelines)
-
 
 ### Midiendo la calidad de código en WTF/min (con ejemplos de código real que... - David Gómez
 
@@ -356,15 +449,16 @@ Me das tu código y cuando pase un evento, lo ejecutas. PAgas por milisegundo qu
 - Highly inspired by Clean Code by Uncle Bob
 
 #### JC's notes
+
 - Clean code
 - What about building a hall of fame of WTF of bad code that will be published when they are fixed.
 - Code must be written by a developer, not by a computer
 - Devs spend most of time reading code and not writing it.
-- Tips: 
-    - Be careful with comments, we need to describe why it does it and not what it does
-    - Review javadoc of spring framework, is really good
-    - Exceptions: Catch only if you know what to do with them, not just throwing them again.
-    - Remove unnecessary code
+- Tips:
+  - Be careful with comments, we need to describe why it does it and not what it does
+  - Review javadoc of spring framework, is really good
+  - Exceptions: Catch only if you know what to do with them, not just throwing them again.
+  - Remove unnecessary code
 
 ### ¡GraalVM y Micronaut: compañeros perfectos! - Iván López (el humilde)
 
@@ -382,13 +476,12 @@ Me das tu código y cuando pase un evento, lo ejecutas. PAgas por milisegundo qu
 #### JC's notes
 
 - GraalVM: Oracle's virtual machine undertands several language (java, scala, groovy, y a parte ruby, python, js, r)
-- Micronaut: 
-    - Framework for microservices in JVM
-    - Is AoT (Ahead of compilation): At runtime, it generates metadata classes so it does not have to keep them in memory, it does not matter if the app is really big.
-    - It provides Cloud Native
-    - Micronaut Data (toolkit for data access, similar to spring data)
-    - Compilation Time really really high but the time to boost ys really low.
-
+- Micronaut:
+  - Framework for microservices in JVM
+  - Is AoT (Ahead of compilation): At runtime, it generates metadata classes so it does not have to keep them in memory, it does not matter if the app is really big.
+  - It provides Cloud Native
+  - Micronaut Data (toolkit for data access, similar to spring data)
+  - Compilation Time really really high but the time to boost ys really low.
 
 ### Operational Serverless - Vicenç García Altés
 
@@ -406,12 +499,23 @@ Me das tu código y cuando pase un evento, lo ejecutas. PAgas por milisegundo qu
 #### Asistentes
 
 - Jorge Mora
-- ...
+- Alex García **Quiero hablar de esta presentación**
 
 #### Jorge's notes
 
 - Super cool talk to get to know React Hooks in 40 min. 👏🏻
 - [Slides](https://slides.com/carlosperezjimeno/reacthooks#/)
+
+### Alex' notes
+
+- Hooks:
+  - useState (Toggle)
+  - useEffect (Scroll)
+  - useContext (Theme)
+- Powerful useReducer + useContext combination
+- Custom hooks:
+  - useChecked
+  - useArray
 
 ## Cloud-native monitoring with Prometheus
 
@@ -423,6 +527,7 @@ Me das tu código y cuando pase un evento, lo ejecutas. PAgas por milisegundo qu
 ### Perfectionism, Impostor Syndrome and Anxiety - Understanding your fears and learning to be kind to yourself - Jo Franchetti
 
 #### Asistentes
+
 - Javier del Aguila **Quiero hablar de esta presentación**
 
 ## Wrap-up
