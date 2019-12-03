@@ -12,7 +12,7 @@ marp -p PITCHME.md -o dist/PITCHME.html
 
 ## September 24 - Tuesday
 
-### Thinking like a Founder - Chad Arimura
+### [01 🧷] - Thinking like a Founder - Chad Arimura
 
 #### Asistentes
 
@@ -51,7 +51,7 @@ marp -p PITCHME.md -o dist/PITCHME.html
 - The "availability theather", that is, pretending that your application is highly available just because you have a DR that you have never tested properly. PRACTICE FAILOVER.
 - "YOU CANNOT PREDICT FAILURE. FAILURE HAPPENS." Be prepared for that. The answer is "Chaos engineering".
 
-### The Reactive Revolution - Josh Long
+### [02 🧷] - The Reactive Revolution - Josh Long ----> PENDIENTE DE QUE LE SALGA UN "PADRE". ¿Juankar?
 
 #### Asistentes
 
@@ -78,12 +78,12 @@ marp -p PITCHME.md -o dist/PITCHME.html
 - [Spring Podcasts](https://spring.io/team/jlong)
 - Spring initializer (dependency: Spring Reactive Web)
 
-### Lo nuevo de CSS - Sonia Ruiz
+### [03 🧷] - Lo nuevo de CSS - Sonia Ruiz
 
 #### Asistentes
 
 - Alberto Chovares
-- Javi Ruiz
+- Javi Ruiz **VA a hablar de esta presentación**
 - Alex García (Youtube) **Quiero hablar de esta presentación**
 
 #### Alex's notes
@@ -99,11 +99,11 @@ marp -p PITCHME.md -o dist/PITCHME.html
   - Pseudo-classes
     - has (parent selector - 0%)
 
-### The Future of Serverless Java - Chad Arimura
+### [04 🧷] - The Future of Serverless Java - Chad Arimura
 
 #### Asistentes
 
-- Jorge Mora
+- Jorge Mora **VA a hablar de esta presentación**
 - Juan Carlos Rivera
 - ...
 
@@ -133,11 +133,11 @@ marp -p PITCHME.md -o dist/PITCHME.html
   - Improvements lambda
   - Text Blocks (""")
 
-### Interfaces en tiempo real con Angular y Redux - Antonio Pérez y Manuel Maldonado @apcano1978 (Digital 55)
+### [05 🧷] - Interfaces en tiempo real con Angular y Redux - Antonio Pérez y Manuel Maldonado @apcano1978 (Digital 55)
 
 #### Asistentes
 
-- Alex García **Quiero hablar de esta presentación**
+- Alex García **VA a hablar de esta presentación**
 - Alberto Chovares
 - Javi Ruiz?
 
@@ -186,13 +186,13 @@ marp -p PITCHME.md -o dist/PITCHME.html
 - Victor Ibañez
 - ...
 
-### One Click Development Environments - Pablo Chico de Guzman
+### [06 🧷] - One Click Development Environments - Pablo Chico de Guzman
 
 #### Asistentes
 
 - Jorge Mora
 - Victor Ibañez
-- Juan Carlos Rivera **Quiero hablar de esta presentación**
+- Juan Carlos Rivera **Quiero hablar de esta presentación** Jorge: Juan carlos, ¿Presentas tú esta?
 - Alex García
 
 #### Jorge's notes
@@ -223,12 +223,12 @@ marp -p PITCHME.md -o dist/PITCHME.html
   - New plugin VS Code Remote SSH - You can create a SSH connection to a remote machine (development) and you can debug using your IDE.
   - It provides you the possibility to develop directly inside a pod of kubernetes or a container it avoids the creation of the container when the development changes.
 
-### Descubriendo Quarkus, java sub-atómico en acción - Katia Aresti y Aurea Amunozhe
+### [07 🧷] - Descubriendo Quarkus, java sub-atómico en acción - Katia Aresti y Aurea Amunozhe
 
 #### Asistentes
 
 - Jorge Mora
-- Victor Ibañez **Quiero hablar de esta presentación**
+- Victor Ibañez **VA a hablar de esta presentación**
 - Juan Carlos Rivera
 - Alex García
 
@@ -249,11 +249,11 @@ marp -p PITCHME.md -o dist/PITCHME.html
 - Deployment in a declarative way
 - GraalVM: It does not provide dynamic classloading and reflection
 
-### How to build Javascript-powered Smartglasses (without any soldering knowledge) - Ruben van der Leun
+### [08 🧷] - How to build Javascript-powered Smartglasses (without any soldering knowledge) - Ruben van der Leun
 
 #### Asistentes
 
-- Alex García **Quiero hablar de esta presentación**
+- Alex García **VA a hablar de esta presentación**
 
 #### Alex's notes
 
@@ -269,12 +269,12 @@ marp -p PITCHME.md -o dist/PITCHME.html
   - Lot of time invested
   - Useful for prototypes
 
-### El futuro era esto: Reconocimiento facial sobre video en tiempo real sin servidores - Javier Ramirez
+### [09 🧷] - El futuro era esto: Reconocimiento facial sobre video en tiempo real sin servidores - Javier Ramirez
 
 #### Asistentes
 
 - Jorge Mora
-- Victor Ibañez **Quiero hablar de esta presentación**
+- Victor Ibañez **VA a hablar de esta presentación**
 - Juan Carlos Rivera
 - ...
 
@@ -313,11 +313,11 @@ Me das tu código y cuando pase un evento, lo ejecutas. PAgas por milisegundo qu
 - Jib -> Google container Tools (jib-maven-plugin)
 - Jib allows you to build and upload that image by layers as easy as 'compile jib:build'
 
-### Tips para mejorar la gestión de tu tiempo - Adolfo Sanz De Diego
+### [10 🧷] - Tips para mejorar la gestión de tu tiempo - Adolfo Sanz De Diego
 
 #### Asistentes
 
-- Javier del Aguila **Quiero hablar de esta presentación**
+- Javier del Aguila **VA a hablar de esta presentación**
 - Juan Carlos Rivera
 
 #### JC's notes
@@ -358,11 +358,11 @@ Me das tu código y cuando pase un evento, lo ejecutas. PAgas por milisegundo qu
 
 ## September 25 - Wednesday
 
-### Taking Back “Software Engineering” by Dave Farley
+### [11 🧷] - Taking Back “Software Engineering” by Dave Farley
 
 #### Asistentes
 
-- Jorge Mora **Quiero hablar de esta presentación**
+- Jorge Mora **VA a hablar de esta presentación**
 - Victor Ibañez
 - ...
 
@@ -400,11 +400,11 @@ Me das tu código y cuando pase un evento, lo ejecutas. PAgas por milisegundo qu
 - Continuous delivery as an engineering principle
 - Don't be _like_ engineers. **Be** engineers.
 
-### Are Web Components the Betamax of Web Development? - Horacio Gonzalez (OVH) @LostInBrittany
+### [12 🧷] - Are Web Components the Betamax of Web Development? - Horacio Gonzalez (OVH) @LostInBrittany
 
 #### Asistentes
 
-- Alex García **Quiero hablar de esta presentación**
+- Alex García **VA a hablar de esta presentación**
 - Alberto Chovares
 - Javi Ruiz
 
@@ -421,7 +421,7 @@ Me das tu código y cuando pase un evento, lo ejecutas. PAgas por milisegundo qu
 
 - Jorge Mora
 - Victor Ibañez
-- Juan Carlos Rivera
+- Juan Carlos Rivera  **¿Juan Carlos, quieres hablar tú de esta?**
 - ...
 
 #### Jorge's notes
@@ -490,12 +490,12 @@ Me das tu código y cuando pase un evento, lo ejecutas. PAgas por milisegundo qu
 - Hover events
 - Responsive charts
 
-### ¡GraalVM y Micronaut: compañeros perfectos! - Iván López (el humilde)
+### [13 🧷] - ¡GraalVM y Micronaut: compañeros perfectos! - Iván López (el humilde)
 
 #### Asistentes
 
 - Jorge Mora
-- Victor Ibañez **Quiero hablar de esta presentación**
+- Victor Ibañez **VA a hablar de esta presentación**
 - Juan Carlos Rivera
 - ...
 
@@ -519,7 +519,7 @@ Me das tu código y cuando pase un evento, lo ejecutas. PAgas por milisegundo qu
 
 - Alex García
 - Alberto Chovares
-- Javi Ruiz?
+- Javi Ruiz
 
 #### Alex's notes
 
@@ -548,7 +548,7 @@ Me das tu código y cuando pase un evento, lo ejecutas. PAgas por milisegundo qu
 
 - Alex García
 - Alberto Chovares
-- Javi Ruiz?
+- Javi Ruiz
 
 #### Alex's notes
 
@@ -556,12 +556,12 @@ Me das tu código y cuando pase un evento, lo ejecutas. PAgas por milisegundo qu
 - Design patterns: commans, decoratos, chain of responsability
 - Talk for beginners
 
-### React hooks, bye bye to classes - ~~Victor Ibáñez Aparicio~~ Carlos P. Jimeno
+### [14 🧷] - React hooks, bye bye to classes - ~~Victor Ibáñez Aparicio~~ Carlos P. Jimeno
 
 #### Asistentes
 
 - Jorge Mora
-- Alex García **Quiero hablar de esta presentación**
+- Alex García **VA a hablar de esta presentación**
 
 #### Jorge's notes
 
@@ -586,11 +586,11 @@ Me das tu código y cuando pase un evento, lo ejecutas. PAgas por milisegundo qu
 - Victor Ibañez
 - ...
 
-### Perfectionism, Impostor Syndrome and Anxiety - Understanding your fears and learning to be kind to yourself - Jo Franchetti
+### [15 🧷] - Perfectionism, Impostor Syndrome and Anxiety - Understanding your fears and learning to be kind to yourself - Jo Franchetti
 
 #### Asistentes
 
-- Javier del Aguila **Quiero hablar de esta presentación**
+- Javier del Aguila **VA a hablar de esta presentación**
 
 ## Wrap-up
 
