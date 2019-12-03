@@ -93,6 +93,11 @@ theme: uncover
   - Store como única fuente de verdad
   - Acciones como reglas para cambiar el estado del Store
 - Valoración del uso de Redux en un proyecto
+
+---
+
+#### Interfaces en tiempo real con Angular y Redux - Antonio Pérez y Manuel Maldonado
+
 - Ejemplo práctico del uso en Angular con NgRx con múltiples fuentes de datos
   - Módulos
   - Estructura recomendada
@@ -100,11 +105,23 @@ theme: uncover
 
 ---
 
-#### How to build Javascript-powered Smartglasses (without any soldering knowledge) - Ruben van der Leun
+#### How to build Javascript-powered Smartglasses - Ruben van der Leun
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Mauris suscipit luctus volutpat.
-- Maecenas at lacus nec velit bibendum ullamcorper.
+- Smartglasses / Vuzix prototype
+- Motivación
+- 3 elementos hardware:
+  - Vufine
+  - Raspberri Pi
+  - Powerbank
+
+---
+
+#### How to build Javascript-powered Smartglasses - Ruben van der Leun
+
+- Software: Rubeye platform connected with a Webapp
+- Demo: navegador, cámara, Youtube, GoogleMaps, Face-Recognition
+- Conclusiones
+- Nuevos retos
 
 ---
 
@@ -144,49 +161,59 @@ theme: uncover
 
 <!-- Javier del Águila -->
 
-#### Tips para mejorar la gestión de tu tiempo  
+#### Tips para mejorar la gestión de tu tiempo
 
 **Adolfo Sanz De Diego**
 
 - Creador de una comunidad, organizador de hackathones, profesor de universidad, imparte cursos de tecnología, asesor técnico y padre de dos hijas
+
 ---
+
 #### Planificar
+
 - Lista Tareas: Cortas, concretas y agendables
 - **Agendar** y poner alarmas
 
-| | Urgente | No Urgente |
-| --- |  --- | --- |
-**Importante**| Hazlo! | Agéndalo | 
-**No Importante**| Delega | Olvida |
+|                   | Urgente | No Urgente |
+| ----------------- | ------- | ---------- |
+| **Importante**    | Hazlo!  | Agéndalo   |
+| **No Importante** | Delega  | Olvida     |
 
 ---
+
 #### Consejos
+
 - Si <2 min hazlo
 - Aprende a decir que no (O posponer)
 - Conoce tus herramientas
 - Orden
-- Automatizar: scripts, filtros de email, etc.. 
-
----
- #### Distracciones
- - Darse de baja de listas de correo
- - Redes sociales cerradas
- - Cerrar pestañas que no utilicemos
- - Primero lo primero/importante
- - Regla de los 5 segundos
+- Automatizar: scripts, filtros de email, etc..
 
 ---
 
- #### Interrupciones 
- - Modo no molestar en móvil y pc
- - Correo 2/3 veces al día
- - Una cosa a la vez
- - Mejor una llamada que un mail
- - Cascos
- - Reuniones <1h con agenda clara
+#### Distracciones
+
+- Darse de baja de listas de correo
+- Redes sociales cerradas
+- Cerrar pestañas que no utilicemos
+- Primero lo primero/importante
+- Regla de los 5 segundos
+
 ---
 
-#### Perfectionism, Impostor Syndrome and Anxiety - Understanding your fears and learning to be kind to yourself  
+#### Interrupciones
+
+- Modo no molestar en móvil y pc
+- Correo 2/3 veces al día
+- Una cosa a la vez
+- Mejor una llamada que un mail
+- Cascos
+- Reuniones <1h con agenda clara
+
+---
+
+#### Perfectionism, Impostor Syndrome and Anxiety - Understanding your fears and learning to be kind to yourself
+
 **Jo Franchetti**
 
 ---
@@ -195,9 +222,10 @@ theme: uncover
 
 - Sensación de que los demás son mejores que tú
 - Miedo a pedir ayuda por parecer ignorante
-- Pánico a justificar en el daily tu trabajo diario  -> sobreesfuerzo
+- Pánico a justificar en el daily tu trabajo diario -> sobreesfuerzo
 - Sensación de que no mereces estar donde estás y de que van a descubrir que eres un fraude
 - Miedo a colaborar en un proyecto opensource por no estar al nivel
+
 ---
 
 #### Perfeccionismo
@@ -210,6 +238,7 @@ theme: uncover
 - Pedir ayuda es no ser perfecto
 
 ---
+
 #### Consejos
 
 - "Perfecto" es un enemigo de "muy bien"
@@ -219,11 +248,13 @@ theme: uncover
 - Hablar de tus problemas y ayudar a los demás
 
 ---
-*"We learn most when reality does NOT match our predictions"*
+
+_"We learn most when reality does NOT match our predictions"_
 
 **Dave Farley**
 
 ---
+
 #### Wrap-up
 
 - PLEASE, APORTAD AQUÍ VUESTRAS CONCLUSIONES
