@@ -13,7 +13,7 @@ theme: uncover
 
 <!-- Jorge -->
 
-#### Thinking like a Founder  - Chad Arimura
+#### Thinking like a Founder - Chad Arimura
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 - Mauris suscipit luctus volutpat.
@@ -42,27 +42,35 @@ theme: uncover
 
 <!-- Victor -->
 
+#### ¡GraalVM y Micronaut: compañeros perfectos! - Iván López (El simpático)
+
+- GraalVM: VM pológlota de Oracle
+- Sin reflexión ni runtime proxies
+  ![width:900](images/graalvm_architecture.png)
+
+---
+
 #### Descubriendo Quarkus, java sub-atómico en acción - Katia Aresti y Aurea Amunozhe
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Mauris suscipit luctus volutpat.
-- Maecenas at lacus nec velit bibendum ullamcorper.
+- Quakus 1.0.0 Final --> 25 de Noviembre 2019
+- Container First
+- Standards-based (RESTEasy and JAX-RS, Hibernate ORM and JPA, Netty, Eclipse Vert.x, Eclipse MicroProfile, Apache Camel, Spring, etc)
+- Microservice First: Fast startup time and code turn around to Java apps
+
+---
+
+#### Descubriendo Quarkus, java sub-atómico en acción - Katia Aresti y Aurea Amunozhe
+
+![width:800px](images/quarkus_rest_crud_size.png)
+![width:900px](images/quarkus_rest_crud_time.png)
 
 ---
 
 #### El futuro era esto: Reconocimiento facial sobre video en tiempo real sin servidores - Javier Ramirez
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Mauris suscipit luctus volutpat.
-- Maecenas at lacus nec velit bibendum ullamcorper.
-
----
-
-#### ¡GraalVM y Micronaut: compañeros perfectos! - Iván López
-
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Mauris suscipit luctus volutpat.
-- Maecenas at lacus nec velit bibendum ullamcorper.
+- AWS Rekognition
+- Análisis de imágenes, videos y reconocimiento facial<br/>
+  ![width:1000px](images/aws_architecture.png)
 
 ---
 
