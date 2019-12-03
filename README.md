@@ -362,7 +362,7 @@ Me das tu código y cuando pase un evento, lo ejecutas. PAgas por milisegundo qu
 
 #### Asistentes
 
-- Jorge Mora
+- Jorge Mora **Quiero hablar de esta presentación**
 - Victor Ibañez
 - ...
 
