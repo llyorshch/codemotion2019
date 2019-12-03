@@ -400,6 +400,21 @@ Me das tu código y cuando pase un evento, lo ejecutas. PAgas por milisegundo qu
 - Continuous delivery as an engineering principle
 - Don't be _like_ engineers. **Be** engineers.
 
+### Are Web Components the Betamax of Web Development? - Horacio Gonzalez (OVH) @LostInBrittany
+
+#### Asistentes
+
+- Alex García **Quiero hablar de esta presentación**
+- Alberto Chovares
+- Javi Ruiz
+
+#### Alex's notes
+
+- Betamax history
+- Comparison between Vue, Angular and Vue
+- Ionic 4 / Stencil or Polymer as a solution nowadays
+- Webcomponent are based in the low level html standard
+
 ### Building Reactive Pipelines: How to go from scalable apps to (ridiculously) scalable systems - Mark Heckler
 
 #### Asistentes
@@ -460,6 +475,21 @@ Me das tu código y cuando pase un evento, lo ejecutas. PAgas por milisegundo qu
   - Exceptions: Catch only if you know what to do with them, not just throwing them again.
   - Remove unnecessary code
 
+### Visualización de Datos Interactiva en aplicaciones con Vue.js y React - Javier Abadía (StyleSage) @javierabadia
+
+#### Asistentes
+
+- Alex García
+- Alberto Chovares
+- Javi Ruiz?
+
+#### Alex's notes
+
+- Charts with only D3JS, only Vue, or only React. Combined charts using D3 & Vue & React
+- Animation with Vue or React, needs external libraries
+- Hover events
+- Responsive charts
+
 ### ¡GraalVM y Micronaut: compañeros perfectos! - Iván López (el humilde)
 
 #### Asistentes
@@ -483,6 +513,24 @@ Me das tu código y cuando pase un evento, lo ejecutas. PAgas por milisegundo qu
   - Micronaut Data (toolkit for data access, similar to spring data)
   - Compilation Time really really high but the time to boost ys really low.
 
+### Web Scrapping como nunca te lo contaron. Atajos y técnicas de Evasión de contramedidas - Jorge Barrachina (ESRI) @NTKOG
+
+#### Asistentes
+
+- Alex García
+- Alberto Chovares
+- Javi Ruiz?
+
+#### Alex's notes
+
+- Legal notes to know what's legal to be scrapped
+- Real use cases of unlegal scrapped data
+- Bots
+- Scrapping tools
+  - Parallel
+  - Puppeteer
+- Conclusion: theorical and moral talk
+
 ### Operational Serverless - Vicenç García Altés
 
 #### Asistentes
@@ -493,6 +541,20 @@ Me das tu código y cuando pase un evento, lo ejecutas. PAgas por milisegundo qu
 #### Jorge's notes
 
 ![Trap](images/trap.gif)
+
+### Afrontando el mal software - César Alberca (Autentia) @cesalberca
+
+#### Asistentes
+
+- Alex García
+- Alberto Chovares
+- Javi Ruiz?
+
+#### Alex's notes
+
+- SOLID principle
+- Design patterns: commans, decoratos, chain of responsability
+- Talk for beginners
 
 ### React hooks, bye bye to classes - ~~Victor Ibáñez Aparicio~~ Carlos P. Jimeno
 
