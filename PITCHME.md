@@ -126,22 +126,47 @@ theme: uncover
 
 <!-- Juan Carlos -->
 
-#### The Reactive Revolution - Josh Long
+#### Building Reactive Pipelines - Mark Heckler
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Mauris suscipit luctus volutpat.
-- Maecenas at lacus nec velit bibendum ullamcorper.
+- Procesamiento de datos asíncrono, no bloqueante y orientado a eventos
+- Reactive Stream API
+- Reactive Cloud Stream (requiere una cola de mensajería: Kafka, RabbitMQ)
+- Publisher<T>, Processor<T,R>, Subscriber<T>, Subscription. 
+- Mono vs Flux
+
+---
+
+#### Building Reactive Pipelines - Mark Heckler
+
+- Publisher @EnableBinding(Source.class)
+- Processor @EnableBinding(Processor.class)
+- Subscriber @EnableBinding(Sink.class)
 
 ---
 
 #### One Click Development Environments - Pablo Chico de Guzman
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Mauris suscipit luctus volutpat.
-- Maecenas at lacus nec velit bibendum ullamcorper.
+- Entorno de desarrollo: replicable, integrado, rápido
+
+| | Replicable | Integrado | Rápido
+| --- |  --- | --- | --- |
+**Local**| NO | NO | SÍ |
+**Vagrant**| SÍ | SÍ | NO |
+**Docker**| SÍ | SÍ | NO |
 
 ---
+#### One Click Development Environments - Pablo Chico de Guzman
 
+- Cloud Native Development: pod mutables, cambio de imagen local en el pod
+    - Sincronización código desde el propio editor en local hasta el pod
+
+    
+| | Replicable | Integrado | Rápido
+| --- |  --- | --- | --- |
+**Cloud Native**| SÍ | SÍ | SÍ |
+
+- Visual Studio Code Remote development
+---
 <!-- Javier del Águila -->
 
 #### Tips para mejorar la gestión de tu tiempo  
