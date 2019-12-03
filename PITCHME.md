@@ -88,9 +88,15 @@ theme: uncover
 
 #### Interfaces en tiempo real con Angular y Redux - Antonio Pérez y Manuel Maldonado
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Mauris suscipit luctus volutpat.
-- Maecenas at lacus nec velit bibendum ullamcorper.
+- Típicos problemas en aplicaciones frontend
+- Patrón Flux:
+  - Store como única fuente de verdad
+  - Acciones como reglas para cambiar el estado del Store
+- Valoración del uso de Redux en un proyecto
+- Ejemplo práctico del uso en Angular con NgRx con múltiples fuentes de datos
+  - Módulos
+  - Estructura recomendada
+  - Acciones -> Efectos -> Acciones
 
 ---
 
