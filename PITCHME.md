@@ -207,11 +207,11 @@ Margaret Hamilton
 
 #### Interfaces en tiempo real con Angular y Redux - Antonio Pérez y Manuel Maldonado
 
-* Típicos problemas en aplicaciones frontend
+* Típicos problemas en aplicaciones frontend 🤯
 * Patrón Flux:
   * Store como única fuente de verdad
   * Acciones como reglas para cambiar el estado del Store
-* Valoración del uso de Redux en un proyecto
+* Valoración del uso de Redux en un proyecto 🧐
 
 ---
 
@@ -226,11 +226,11 @@ Margaret Hamilton
 
 #### How to build Javascript-powered Smartglasses - Ruben van der Leun
 
-* Smartglasses / Vuzix prototype
+* Smartglasses / Vuzix prototype 🤓
 * Motivación
 * 3 elementos hardware:
   * Vufine
-  * Raspberri Pi
+  * Raspberry Pi
   * Powerbank
 
 ---
@@ -240,7 +240,7 @@ Margaret Hamilton
 * Software: Rubeye platform connected with a Webapp
 * Demo: navegador, cámara, Youtube, GoogleMaps, Face-Recognition
 * Conclusiones
-* Nuevos retos
+* Nuevos retos 🧐
 
 ---
 
@@ -250,7 +250,7 @@ Margaret Hamilton
   * Custom Elements
   * Shadow DOM
   * Template
-* Historia Betamax
+* Historia Betamax 📼
 
 ---
 
@@ -260,8 +260,8 @@ Margaret Hamilton
 * Ionic
   * AngularJS -> Angular
   * Stencil
-* Polymer, deprecated?
-* Los componentes web valen la pena, son el estándar
+* Polymer, deprecated? 
+* Los componentes web valen la pena, son el estándar 🤨
 
 ---
 
@@ -271,14 +271,14 @@ Margaret Hamilton
   * useState (Toggle)
   * useEffect (Scroll)
   * useContext (Theme)
-* Powerful useReducer + useContext combination
+* Powerful useReducer + useContext combination 💪
 * Custom hooks:
   * useChecked
   * useArray
 
 ---
 
-#### React hooks, bye bye to classes - ~~Carlos P. Jimeno~~ Victor Ibáñez
+#### React hooks, bye bye to classes - ~~Carlos P. Jimeno~~ Victor Ibáñez 🤷‍♂️
 
 ![width:300px](images/React_hooks_bye_bye_classes.jpg)
 
