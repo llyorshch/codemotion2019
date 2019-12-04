@@ -342,50 +342,50 @@ Margaret Hamilton
 
 **Adolfo Sanz De Diego**
 
-- Creador de una comunidad, organizador de hackathones, profesor de universidad, imparte cursos de tecnología, asesor técnico y padre de dos hijas
+* Creador de una comunidad, organizador de hackathones, profesor de universidad, imparte cursos de tecnología, asesor técnico y padre de dos hijas
 
 ---
 
 #### Planificar
-
-- Lista Tareas: Cortas, concretas y agendables
-- **Agendar** y poner alarmas
 
 |                   | Urgente | No Urgente |
 | ----------------- | ------- | ---------- |
 | **Importante**    | Hazlo!  | Agéndalo   |
 | **No Importante** | Delega  | Olvida     |
 
+* Lista Tareas: Cortas, concretas y agendables
+* **Agendar** y poner alarmas
+
 ---
 
 #### Consejos
 
-- Si <2 min hazlo
-- Aprende a decir que no (O posponer)
-- Conoce tus herramientas
-- Orden
-- Automatizar: scripts, filtros de email, etc..
+* Si <2 minutos: hazlo
+* Aprende a decir que no (O posponer)
+* Conoce tus herramientas
+* Orden
+* Automatizar: scripts, filtros de email, etc..
 
 ---
 
 #### Distracciones
 
-- Darse de baja de listas de correo
-- Redes sociales cerradas
-- Cerrar pestañas que no utilicemos
-- Primero lo primero/importante
-- Regla de los 5 segundos
+* Darse de baja de listas de correo
+* Redes sociales cerradas
+* Cerrar pestañas que no utilicemos
+* Primero lo primero/importante
+* Regla de los 5 segundos
 
 ---
 
 #### Interrupciones
 
-- Modo no molestar en móvil y pc
-- Correo 2/3 veces al día
-- Una cosa a la vez
-- Mejor una llamada que un mail
-- Cascos
-- Reuniones <1h con agenda clara
+* Modo no molestar en móvil y pc
+* Correo 2/3 veces al día
+* Una cosa a la vez
+* Mejor una llamada que un mail
+* Cascos
+* Reuniones <1h con agenda clara
 
 ---
 
@@ -397,32 +397,32 @@ Margaret Hamilton
 
 #### Sindrome del impostor
 
-- Sensación de que los demás son mejores que tú
-- Miedo a pedir ayuda por parecer ignorante
-- Pánico a justificar en el daily tu trabajo diario -> sobreesfuerzo
-- Sensación de que no mereces estar donde estás y de que van a descubrir que eres un fraude
-- Miedo a colaborar en un proyecto opensource por no estar al nivel
+* Sensación de que los demás son mejores que tú
+* Miedo a pedir ayuda por parecer ignorante
+* Pánico a justificar en el daily tu trabajo diario -> sobreesfuerzo
+* Sensación de que no mereces estar donde estás y de que van a descubrir que eres un fraude
+* Miedo a colaborar en un proyecto opensource por no estar al nivel
 
 ---
 
 #### Perfeccionismo
 
-- Autoexigirse un nivel inalcanzable
-- Preocupación por lo que piensen los demás
-- "Bastante bien" no es suficiente
-- Miedo a entregar un trabajo porque alguien pueda encontrar un error
-- Dejar cosas inacabadas por no conseguir exáctamente lo que se pretendía en un principio
-- Pedir ayuda es no ser perfecto
+* Autoexigirse un nivel inalcanzable
+* Preocupación por lo que piensen los demás
+* "Bastante bien" no es suficiente
+* Miedo a entregar un trabajo porque alguien pueda encontrar un error
+* Dejar cosas inacabadas por no conseguir exáctamente lo que se pretendía en un principio
+* Pedir ayuda es no ser perfecto
 
 ---
 
 #### Consejos
 
-- "Perfecto" es un enemigo de "muy bien"
-- Pedir ayuda te hace mejorar y ahorrar tiempo
-- Nadie te va a criticar más que tú mismo
-- Si alguien encuentra un error, es una oportunidad para aprender
-- Hablar de tus problemas y ayudar a los demás
+* "Perfecto" es un enemigo de "muy bien"
+* Pedir ayuda te hace mejorar y ahorrar tiempo
+* Nadie te va a criticar más que tú mismo
+* Si alguien encuentra un error, es una oportunidad para aprender
+* Hablar de tus problemas y ayudar a los demás
 
 ---
 
