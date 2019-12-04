@@ -191,9 +191,9 @@ theme: uncover
 #### Are Web Components the Betamax of Web Development? - Horacio Gonzalez
 
 - Concepto de Componente Web (W3C)
-  - Elementos customizados
+  - Custom Elements
   - Shadow DOM
-  - Plantilla
+  - Template
 - Historia Betamax
 
 ---
@@ -205,7 +205,7 @@ theme: uncover
   - AngularJS -> Angular
   - Stencil
 - Polymer, deprecated?
-- Los componentes web valen la pensa, son el estándar
+- Los componentes web valen la pena, son el estándar
 
 ---
 
