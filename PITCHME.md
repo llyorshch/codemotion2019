@@ -190,17 +190,41 @@ theme: uncover
 
 #### Are Web Components the Betamax of Web Development? - Horacio Gonzalez
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Mauris suscipit luctus volutpat.
-- Maecenas at lacus nec velit bibendum ullamcorper.
+- Concepto de Componente Web (W3C)
+  - Elementos customizados
+  - Shadow DOM
+  - Plantilla
+- Historia Betamax
+
+---
+
+#### Are Web Components the Betamax of Web Development? - Horacio Gonzalez
+
+- Componentes Web compatibles con todos los navegadores
+- Ionic
+  - AngularJS -> Angular
+  - Stencil
+- Polymer, deprecated?
+- Los componentes web valen la pensa, son el estándar
 
 ---
 
 #### React hooks, bye bye to classes - Carlos P. Jimeno
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Mauris suscipit luctus volutpat.
-- Maecenas at lacus nec velit bibendum ullamcorper.
+- Hooks:
+  - useState (Toggle)
+  - useEffect (Scroll)
+  - useContext (Theme)
+- Powerful useReducer + useContext combination
+- Custom hooks:
+  - useChecked
+  - useArray
+
+---
+
+#### React hooks, bye bye to classes - ~~Carlos P. Jimeno~~ Victor Ibáñez
+
+![width:300px](images/React_hooks_bye_bye_classes.jpg)
 
 ---
 
@@ -211,7 +235,7 @@ theme: uncover
 - Procesamiento de datos asíncrono, no bloqueante y orientado a eventos
 - Reactive Stream API
 - Reactive Cloud Stream (requiere una cola de mensajería: Kafka, RabbitMQ)
-- Publisher<T>, Processor<T,R>, Subscriber<T>, Subscription. 
+- Publisher<T>, Processor<T,R>, Subscriber<T>, Subscription.
 - Mono vs Flux
 
 ---
@@ -228,25 +252,27 @@ theme: uncover
 
 - Entorno de desarrollo: replicable, integrado, rápido
 
-| | Replicable | Integrado | Rápido
-| --- |  --- | --- | --- |
-**Local**| NO | NO | SÍ |
-**Vagrant**| SÍ | SÍ | NO |
-**Docker**| SÍ | SÍ | NO |
+|             | Replicable | Integrado | Rápido |
+| ----------- | ---------- | --------- | ------ |
+| **Local**   | NO         | NO        | SÍ     |
+| **Vagrant** | SÍ         | SÍ        | NO     |
+| **Docker**  | SÍ         | SÍ        | NO     |
 
 ---
+
 #### One Click Development Environments - Pablo Chico de Guzman
 
 - Cloud Native Development: pod mutables, cambio de imagen local en el pod
-    - Sincronización código desde el propio editor en local hasta el pod
+  - Sincronización código desde el propio editor en local hasta el pod
 
-    
-| | Replicable | Integrado | Rápido
-| --- |  --- | --- | --- |
-**Cloud Native**| SÍ | SÍ | SÍ |
+|                  | Replicable | Integrado | Rápido |
+| ---------------- | ---------- | --------- | ------ |
+| **Cloud Native** | SÍ         | SÍ        | SÍ     |
 
 - Visual Studio Code Remote development
+
 ---
+
 <!-- Javier del Águila -->
 
 #### Tips para mejorar la gestión de tu tiempo
