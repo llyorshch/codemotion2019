@@ -15,38 +15,89 @@ theme: uncover
 
 #### Thinking like a Founder - Chad Arimura
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Mauris suscipit luctus volutpat.
-- Maecenas at lacus nec velit bibendum ullamcorper.
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Mauris suscipit luctus volutpat.
-- Maecenas at lacus nec velit bibendum ullamcorper.
+* CEO's functions:
+  * **People** 🧍🏻 Choose wisely and empower your team
+  * **Vision** 👁 Just a north star
+  * **Capital** 🏃‍♀️ Fear the treadmill
+* Culture
+  * YOU are the culture. Less words. Acts.
+  * **Shitty or incoherent culture brings a shitty incoherent company.** ⬅️ FUCKIN'AMEN
 
 ---
 
-#### Taking Back “Software Engineering” - Dave Farley
+#### Taking Back “Software Engineering”
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Mauris suscipit luctus volutpat.
-- Maecenas at lacus nec velit bibendum ullamcorper.
+###### By Dave Farley
+
+* "UML is only a tool. It's not engineering"
+* Solid disciplines are made with solid principles
+* **SCRUM is project management stuff. It's not SE. There is no word about coding in the SCRUM spec.**
+* Craftsmanship: Production is not a problem (we simply copy bytes to deliver a product). The problem is design.
+
+---
+
+#### Taking Back “Software Engineering”
+
+* Software industry
+  * Craft ⬅️ We are here
+  * Mass production ⬅️ WRONG
+  * Lean production techniques ⬅️ We WANT to be here (but we are not here yet)
+
+---
+
+#### Taking Back “Software Engineering”
+
+* The most expensive user story: "As the President of the U.S.A. I want to send a man to the moon before the end of this decade". JFK 1961
+* Be experimental. Waterfall is not an option for big challenges: The Ranger Programme (to "hit" the moon)  
+* Just guessing is not good enough. You have to measure it! Be empirical
+
+---
+
+#### The first engineer 🙇🏻‍
+
+![Margaret Hamilton](images/margaret_hamilton.jpg)
+
+Margaret Hamilton
+
+---
+
+# <!--fit--> Don't be _like_ engineers. **Be** engineers
 
 ---
 
 #### The Future of Serverless Java - Chad Arimura
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Mauris suscipit luctus volutpat.
-- Maecenas at lacus nec velit bibendum ullamcorper.
+* 80% of the world is using Java, but Java is not popular in serverless environments and the trend is quite bad
+* Java optimizations for serverless applications
+  * Class Data Sharing (JVM Enhancement)
+  * [Project Portola](https://openjdk.java.net/projects/portola/), a port of the JDK to the Alpine Linux distribution.
+  * [SubstrateVM](https://github.com/oracle/graal/tree/master/substratevm), a framework that allows ahead-of-time (AOT) compilation of Java applications.
+  * [jlink](https://docs.oracle.com/javase/9/tools/jlink.htm), a tool to create reduced JDKs
+
+---
+
+#### The Future of Serverless Java - Chad Arimura
+
+  * Language improvements
+    * Less ceremony
+      - var
+      - Text blocks with """
+      - Switch expressions
+  * JDK 10+ provides better integration with containers (recognizes cgroup limits)
+  * Simplified native code access with [Project Panama](https://openjdk.java.net/projects/panama/)
 
 ---
 
 <!-- Victor -->
+![bg Cambio](images/cambio1.jpg)
+
+---
 
 #### ¡GraalVM y Micronaut: compañeros perfectos! - Iván López (El simpático)
 
 - GraalVM: VM políglota de Oracle
 - Sin reflexión ni runtime proxies
-  ![width:900](images/graalvm_architecture.png)
+  ![width:600](images/graalvm_architecture.png)
 
 ---
 
@@ -75,7 +126,9 @@ theme: uncover
 ---
 
 <!-- Javi Ruiz -->
+![bg Cambio](images/cambio2.jpg)
 
+---
 ## Lo nuevo de CSS (Sonia Ruiz)
 
 ---
@@ -148,6 +201,9 @@ theme: uncover
 ---
 
 <!-- Alex -->
+![bg contain](images/cambio3.jpg)
+
+---
 
 #### Interfaces en tiempo real con Angular y Redux - Antonio Pérez y Manuel Maldonado
 
@@ -229,6 +285,10 @@ theme: uncover
 ---
 
 <!-- Juan Carlos -->
+![bg Cambio](images/cambio4.jpg)
+
+---
+
 
 #### Building Reactive Pipelines - Mark Heckler
 
@@ -274,6 +334,9 @@ theme: uncover
 ---
 
 <!-- Javier del Águila -->
+![bg Cambio](images/cambio5.jpg)
+
+---
 
 #### Tips para mejorar la gestión de tu tiempo
 
@@ -371,8 +434,18 @@ _"We learn most when reality does NOT match our predictions"_
 
 #### Wrap-up
 
-- PLEASE, APORTAD AQUÍ VUESTRAS CONCLUSIONES
+* El nivel de las charlas fue muy variable.
+* La organización, excelente.
+* Vale la pena para:
+
+  1) Mantenerse al corriente, enterarse de en qué dirección van las cosas, etc.
+  2) Hacer equipo y ¡pasarlo bien!
 
 ---
 
-# <!--fit--> :+1:
+Tenéis toda la información y las slides de esta charla en el siguiente repositorio:
+
+https://gitlab.edorasware.com/solutionsES/codemotion2019
+
+---
+# <!--fit--> 🍕 ¡Gracias!
