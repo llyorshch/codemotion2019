@@ -211,6 +211,7 @@ Margaret Hamilton
 * Patrón Flux:
   * Store como única fuente de verdad
   * Acciones como reglas para cambiar el estado del Store
+* Redux como solución
 * Valoración del uso de Redux en un proyecto 🧐
 
 ---
