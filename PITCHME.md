@@ -207,74 +207,74 @@ Margaret Hamilton
 
 #### Interfaces en tiempo real con Angular y Redux - Antonio Pérez y Manuel Maldonado
 
-- Típicos problemas en aplicaciones frontend
-- Patrón Flux:
-  - Store como única fuente de verdad
-  - Acciones como reglas para cambiar el estado del Store
-- Valoración del uso de Redux en un proyecto
+* Típicos problemas en aplicaciones frontend
+* Patrón Flux:
+  * Store como única fuente de verdad
+  * Acciones como reglas para cambiar el estado del Store
+* Valoración del uso de Redux en un proyecto
 
 ---
 
 #### Interfaces en tiempo real con Angular y Redux - Antonio Pérez y Manuel Maldonado
 
-- Ejemplo práctico del uso en Angular con NgRx con múltiples fuentes de datos
-  - Módulos
-  - Estructura recomendada
-  - Acciones -> Efectos -> Acciones
+* Ejemplo práctico del uso en Angular con NgRx con múltiples fuentes de datos
+  * Módulos
+  * Estructura recomendada
+  * Acciones -> Efectos -> Acciones
 
 ---
 
 #### How to build Javascript-powered Smartglasses - Ruben van der Leun
 
-- Smartglasses / Vuzix prototype
-- Motivación
-- 3 elementos hardware:
-  - Vufine
-  - Raspberri Pi
-  - Powerbank
+* Smartglasses / Vuzix prototype
+* Motivación
+* 3 elementos hardware:
+  * Vufine
+  * Raspberri Pi
+  * Powerbank
 
 ---
 
 #### How to build Javascript-powered Smartglasses - Ruben van der Leun
 
-- Software: Rubeye platform connected with a Webapp
-- Demo: navegador, cámara, Youtube, GoogleMaps, Face-Recognition
-- Conclusiones
-- Nuevos retos
+* Software: Rubeye platform connected with a Webapp
+* Demo: navegador, cámara, Youtube, GoogleMaps, Face-Recognition
+* Conclusiones
+* Nuevos retos
 
 ---
 
 #### Are Web Components the Betamax of Web Development? - Horacio Gonzalez
 
-- Concepto de Componente Web (W3C)
-  - Custom Elements
-  - Shadow DOM
-  - Template
-- Historia Betamax
+* Concepto de Componente Web (W3C)
+  * Custom Elements
+  * Shadow DOM
+  * Template
+* Historia Betamax
 
 ---
 
 #### Are Web Components the Betamax of Web Development? - Horacio Gonzalez
 
-- Componentes Web compatibles con todos los navegadores
-- Ionic
-  - AngularJS -> Angular
-  - Stencil
-- Polymer, deprecated?
-- Los componentes web valen la pena, son el estándar
+* Componentes Web compatibles con todos los navegadores
+* Ionic
+  * AngularJS -> Angular
+  * Stencil
+* Polymer, deprecated?
+* Los componentes web valen la pena, son el estándar
 
 ---
 
 #### React hooks, bye bye to classes - Carlos P. Jimeno
 
-- Hooks:
-  - useState (Toggle)
-  - useEffect (Scroll)
-  - useContext (Theme)
-- Powerful useReducer + useContext combination
-- Custom hooks:
-  - useChecked
-  - useArray
+* Hooks:
+  * useState (Toggle)
+  * useEffect (Scroll)
+  * useContext (Theme)
+* Powerful useReducer + useContext combination
+* Custom hooks:
+  * useChecked
+  * useArray
 
 ---
 
