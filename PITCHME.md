@@ -441,6 +441,11 @@ _"We learn most when reality does NOT match our predictions"_
   1) Mantenerse al corriente, enterarse de en qué dirección van las cosas, etc.
   2) Hacer equipo y ¡pasarlo bien!
 
+---
+
+Tenéis toda la información y las slides de esta charla en el siguiente repositorio:
+
+https://gitlab.edorasware.com/solutionsES/codemotion2019
 
 ---
 # <!--fit--> 🍕 ¡Gracias!
